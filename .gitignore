@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (au cas où des outils JS seraient ajoutés)
+node_modules/
+
+# Editeurs
+.vscode/
+.idea/
+
+# Logs
+*.log

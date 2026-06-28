@@ -1,4 +1,4 @@
-# duda2 — app d'entraînement à la conjugaison basque (NOR / NORI / NORK)
+# duda-jokoa — app d'entraînement à la conjugaison basque (NOR / NORI / NORK)
 
 ## Contexte
 
@@ -75,10 +75,10 @@ sans build, sans serveur**. Déployable comme simples fichiers statiques.
 
 ## Structure du projet
 
-Nouveau dossier `~/git/duda2/`, avec `git init` :
+Nouveau dossier `~/git/duda-jokoa/`, avec `git init` :
 
 ```
-duda2/
+duda-jokoa/
   index.html
   styles.css
   app.js
@@ -195,7 +195,7 @@ Pas de framework CSS — feuille de style unique, pas de dépendance.
 
 ## Étapes d'implémentation
 
-1. `git init` dans `~/git/duda2/`
+1. `git init` dans `~/git/duda-jokoa/`
 2. `scripts/raw_forms.py` : transcription littérale des lignes standards du
    PDF, organisée par mota/modua/aldia
 3. `scripts/build_data.py` : applique la règle de blocage pour générer

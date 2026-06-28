@@ -1,4 +1,4 @@
-# duda2
+# duda-jokoa
 
 Appli web responsive pour s'entraîner à la conjugaison des auxiliaires
 basques (izan/ukan) via des phrases à trou, avec filtres optionnels par
@@ -15,7 +15,7 @@ directement avec `file://` ne fonctionne pas dans la plupart des
 navigateurs) :
 
 ```sh
-cd duda2
+cd duda-jokoa
 python3 -m http.server 8000
 ```
 
@@ -24,7 +24,7 @@ puis ouvrir http://localhost:8000/.
 ## Structure
 
 ```
-duda2/
+duda-jokoa/
   index.html          écran de sélection / jeu / résultat
   app.js               logique : chargement des données, tirage, score
   styles.css           mobile-first, responsive
