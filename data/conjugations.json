@@ -1,0 +1,8182 @@
+{
+  "nor": {
+    "agintera": [
+      {
+        "form": "hadi",
+        "nor": "hi"
+      },
+      {
+        "form": "bedi",
+        "nor": "hura"
+      },
+      {
+        "form": "zaitez",
+        "nor": "zu"
+      },
+      {
+        "form": "zaitezte",
+        "nor": "zuek"
+      },
+      {
+        "form": "bitez",
+        "nor": "haiek"
+      }
+    ],
+    "ahalera": {
+      "lehen": [
+        {
+          "form": "nintekeen",
+          "nor": "ni"
+        },
+        {
+          "form": "hintekeen",
+          "nor": "hi"
+        },
+        {
+          "form": "zitekeen",
+          "nor": "hura"
+        },
+        {
+          "form": "gintezkeen",
+          "nor": "gu"
+        },
+        {
+          "form": "zintezkeen",
+          "nor": "zu"
+        },
+        {
+          "form": "zintezketen",
+          "nor": "zuek"
+        },
+        {
+          "form": "zitezkeen",
+          "nor": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "naiteke",
+          "nor": "ni"
+        },
+        {
+          "form": "haiteke",
+          "nor": "hi"
+        },
+        {
+          "form": "daiteke",
+          "nor": "hura"
+        },
+        {
+          "form": "gaitezke",
+          "nor": "gu"
+        },
+        {
+          "form": "zaitezke",
+          "nor": "zu"
+        },
+        {
+          "form": "zaitezkete",
+          "nor": "zuek"
+        },
+        {
+          "form": "daitezke",
+          "nor": "haiek"
+        }
+      ]
+    },
+    "baldintza": [
+      {
+        "form": "banintz",
+        "nor": "ni"
+      },
+      {
+        "form": "bahintz",
+        "nor": "hi"
+      },
+      {
+        "form": "balitz",
+        "nor": "hura"
+      },
+      {
+        "form": "bagina",
+        "nor": "gu"
+      },
+      {
+        "form": "bazina",
+        "nor": "zu"
+      },
+      {
+        "form": "bazinete",
+        "nor": "zuek"
+      },
+      {
+        "form": "balira",
+        "nor": "haiek"
+      }
+    ],
+    "hipotetikoa": [
+      {
+        "form": "ninteke",
+        "nor": "ni"
+      },
+      {
+        "form": "hinteke",
+        "nor": "hi"
+      },
+      {
+        "form": "liteke",
+        "nor": "hura"
+      },
+      {
+        "form": "gintezke",
+        "nor": "gu"
+      },
+      {
+        "form": "zintezke",
+        "nor": "zu"
+      },
+      {
+        "form": "zintezkete",
+        "nor": "zuek"
+      },
+      {
+        "form": "litezke",
+        "nor": "haiek"
+      }
+    ],
+    "indikatiboa": {
+      "lehen": [
+        {
+          "form": "nintzen",
+          "nor": "ni"
+        },
+        {
+          "form": "hintzen",
+          "nor": "hi"
+        },
+        {
+          "form": "zen",
+          "nor": "hura"
+        },
+        {
+          "form": "ginen",
+          "nor": "gu"
+        },
+        {
+          "form": "zinen",
+          "nor": "zu"
+        },
+        {
+          "form": "zineten",
+          "nor": "zuek"
+        },
+        {
+          "form": "ziren",
+          "nor": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "naiz",
+          "nor": "ni"
+        },
+        {
+          "form": "haiz",
+          "nor": "hi"
+        },
+        {
+          "form": "da",
+          "nor": "hura"
+        },
+        {
+          "form": "gara",
+          "nor": "gu"
+        },
+        {
+          "form": "zara",
+          "nor": "zu"
+        },
+        {
+          "form": "zarete",
+          "nor": "zuek"
+        },
+        {
+          "form": "dira",
+          "nor": "haiek"
+        }
+      ]
+    },
+    "ondorioa": {
+      "lehen": [
+        {
+          "form": "nintzatekeen",
+          "nor": "ni"
+        },
+        {
+          "form": "hintzatekeen",
+          "nor": "hi"
+        },
+        {
+          "form": "zatekeen",
+          "nor": "hura"
+        },
+        {
+          "form": "ginatekeen",
+          "nor": "gu"
+        },
+        {
+          "form": "zinatekeen",
+          "nor": "zu"
+        },
+        {
+          "form": "zinateketen",
+          "nor": "zuek"
+        },
+        {
+          "form": "ziratekeen",
+          "nor": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "nintzateke",
+          "nor": "ni"
+        },
+        {
+          "form": "hintzateke",
+          "nor": "hi"
+        },
+        {
+          "form": "litzateke",
+          "nor": "hura"
+        },
+        {
+          "form": "ginateke",
+          "nor": "gu"
+        },
+        {
+          "form": "zinateke",
+          "nor": "zu"
+        },
+        {
+          "form": "zinatekete",
+          "nor": "zuek"
+        },
+        {
+          "form": "lirateke",
+          "nor": "haiek"
+        }
+      ]
+    },
+    "subjuntiboa": {
+      "lehen": [
+        {
+          "form": "nendin",
+          "nor": "ni"
+        },
+        {
+          "form": "hendin",
+          "nor": "hi"
+        },
+        {
+          "form": "zedin",
+          "nor": "hura"
+        },
+        {
+          "form": "gintezen",
+          "nor": "gu"
+        },
+        {
+          "form": "zintezen",
+          "nor": "zu"
+        },
+        {
+          "form": "zintezten",
+          "nor": "zuek"
+        },
+        {
+          "form": "zitezen",
+          "nor": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "nadin",
+          "nor": "ni"
+        },
+        {
+          "form": "hadin",
+          "nor": "hi"
+        },
+        {
+          "form": "dadin",
+          "nor": "hura"
+        },
+        {
+          "form": "gaitezen",
+          "nor": "gu"
+        },
+        {
+          "form": "zaitezen",
+          "nor": "zu"
+        },
+        {
+          "form": "zaitezten",
+          "nor": "zuek"
+        },
+        {
+          "form": "daitezen",
+          "nor": "haiek"
+        }
+      ]
+    }
+  },
+  "nor-nori": {
+    "agintera": [
+      {
+        "form": "hakit",
+        "nor": "hi",
+        "nori": "niri"
+      },
+      {
+        "form": "hakio",
+        "nor": "hi",
+        "nori": "hari"
+      },
+      {
+        "form": "hakigu",
+        "nor": "hi",
+        "nori": "guri"
+      },
+      {
+        "form": "hakie",
+        "nor": "hi",
+        "nori": "haiei"
+      },
+      {
+        "form": "bekit",
+        "nor": "hura",
+        "nori": "niri"
+      },
+      {
+        "form": "bekik",
+        "nor": "hura",
+        "nori": "hiri"
+      },
+      {
+        "form": "bekio",
+        "nor": "hura",
+        "nori": "hari"
+      },
+      {
+        "form": "bekigu",
+        "nor": "hura",
+        "nori": "guri"
+      },
+      {
+        "form": "bekizu",
+        "nor": "hura",
+        "nori": "zuri"
+      },
+      {
+        "form": "bekizue",
+        "nor": "hura",
+        "nori": "zuei"
+      },
+      {
+        "form": "bekie",
+        "nor": "hura",
+        "nori": "haiei"
+      },
+      {
+        "form": "zakizkit",
+        "nor": "zu",
+        "nori": "niri"
+      },
+      {
+        "form": "zakizkio",
+        "nor": "zu",
+        "nori": "hari"
+      },
+      {
+        "form": "zakizkigu",
+        "nor": "zu",
+        "nori": "guri"
+      },
+      {
+        "form": "zakizkie",
+        "nor": "zu",
+        "nori": "haiei"
+      },
+      {
+        "form": "zakizkidate",
+        "nor": "zuek",
+        "nori": "niri"
+      },
+      {
+        "form": "zakizkiote",
+        "nor": "zuek",
+        "nori": "hari"
+      },
+      {
+        "form": "zakizkigute",
+        "nor": "zuek",
+        "nori": "guri"
+      },
+      {
+        "form": "zakizkiete",
+        "nor": "zuek",
+        "nori": "haiei"
+      },
+      {
+        "form": "bekizkit",
+        "nor": "haiek",
+        "nori": "niri"
+      },
+      {
+        "form": "bekizkik",
+        "nor": "haiek",
+        "nori": "hiri"
+      },
+      {
+        "form": "bekizkio",
+        "nor": "haiek",
+        "nori": "hari"
+      },
+      {
+        "form": "bekizkigu",
+        "nor": "haiek",
+        "nori": "guri"
+      },
+      {
+        "form": "bekizkizu",
+        "nor": "haiek",
+        "nori": "zuri"
+      },
+      {
+        "form": "bekizkizue",
+        "nor": "haiek",
+        "nori": "zuei"
+      },
+      {
+        "form": "bekizkie",
+        "nor": "haiek",
+        "nori": "haiei"
+      }
+    ],
+    "ahalera": {
+      "lehen": [
+        {
+          "form": "nenkiakeen",
+          "nor": "ni",
+          "nori": "hiri"
+        },
+        {
+          "form": "nenkiokeen",
+          "nor": "ni",
+          "nori": "hari"
+        },
+        {
+          "form": "nenkizukeen",
+          "nor": "ni",
+          "nori": "zuri"
+        },
+        {
+          "form": "nenkizuekeen",
+          "nor": "ni",
+          "nori": "zuei"
+        },
+        {
+          "form": "nenkiekeen",
+          "nor": "ni",
+          "nori": "haiei"
+        },
+        {
+          "form": "henkidakeen",
+          "nor": "hi",
+          "nori": "niri"
+        },
+        {
+          "form": "henkiokeen",
+          "nor": "hi",
+          "nori": "hari"
+        },
+        {
+          "form": "henkigukeen",
+          "nor": "hi",
+          "nori": "guri"
+        },
+        {
+          "form": "henkiekeen",
+          "nor": "hi",
+          "nori": "haiei"
+        },
+        {
+          "form": "zekidakeen",
+          "nor": "hura",
+          "nori": "niri"
+        },
+        {
+          "form": "zekiakeen",
+          "nor": "hura",
+          "nori": "hiri"
+        },
+        {
+          "form": "zekiokeen",
+          "nor": "hura",
+          "nori": "hari"
+        },
+        {
+          "form": "zekigukeen",
+          "nor": "hura",
+          "nori": "guri"
+        },
+        {
+          "form": "zekizukeen",
+          "nor": "hura",
+          "nori": "zuri"
+        },
+        {
+          "form": "zekizuekeen",
+          "nor": "hura",
+          "nori": "zuei"
+        },
+        {
+          "form": "zekiekeen",
+          "nor": "hura",
+          "nori": "haiei"
+        },
+        {
+          "form": "genkizkiakeen",
+          "nor": "gu",
+          "nori": "hiri"
+        },
+        {
+          "form": "genkizkiokeen",
+          "nor": "gu",
+          "nori": "hari"
+        },
+        {
+          "form": "genkizkizukeen",
+          "nor": "gu",
+          "nori": "zuri"
+        },
+        {
+          "form": "genkizkizuekeen",
+          "nor": "gu",
+          "nori": "zuei"
+        },
+        {
+          "form": "genkizkiekeen",
+          "nor": "gu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zenkizkidakeen",
+          "nor": "zu",
+          "nori": "niri"
+        },
+        {
+          "form": "zenkizkiokeen",
+          "nor": "zu",
+          "nori": "hari"
+        },
+        {
+          "form": "zenkizkigukeen",
+          "nor": "zu",
+          "nori": "guri"
+        },
+        {
+          "form": "zenkizkiekeen",
+          "nor": "zu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zenkizkidaketen",
+          "nor": "zuek",
+          "nori": "niri"
+        },
+        {
+          "form": "zenkizkioketen",
+          "nor": "zuek",
+          "nori": "hari"
+        },
+        {
+          "form": "zenkizkiguketen",
+          "nor": "zuek",
+          "nori": "guri"
+        },
+        {
+          "form": "zenkizkieketen",
+          "nor": "zuek",
+          "nori": "haiei"
+        },
+        {
+          "form": "zekizkidakeen",
+          "nor": "haiek",
+          "nori": "niri"
+        },
+        {
+          "form": "zekizkiakeen",
+          "nor": "haiek",
+          "nori": "hiri"
+        },
+        {
+          "form": "zekizkiokeen",
+          "nor": "haiek",
+          "nori": "hari"
+        },
+        {
+          "form": "zekizkigukeen",
+          "nor": "haiek",
+          "nori": "guri"
+        },
+        {
+          "form": "zekizkizukeen",
+          "nor": "haiek",
+          "nori": "zuri"
+        },
+        {
+          "form": "zekizkizuekeen",
+          "nor": "haiek",
+          "nori": "zuei"
+        },
+        {
+          "form": "zekizkiekeen",
+          "nor": "haiek",
+          "nori": "haiei"
+        }
+      ],
+      "orain": [
+        {
+          "form": "nakiake",
+          "nor": "ni",
+          "nori": "hiri"
+        },
+        {
+          "form": "nakioke",
+          "nor": "ni",
+          "nori": "hari"
+        },
+        {
+          "form": "nakizuke",
+          "nor": "ni",
+          "nori": "zuri"
+        },
+        {
+          "form": "nakizueke",
+          "nor": "ni",
+          "nori": "zuei"
+        },
+        {
+          "form": "nakieke",
+          "nor": "ni",
+          "nori": "haiei"
+        },
+        {
+          "form": "hakidake",
+          "nor": "hi",
+          "nori": "niri"
+        },
+        {
+          "form": "hakioke",
+          "nor": "hi",
+          "nori": "hari"
+        },
+        {
+          "form": "hakiguke",
+          "nor": "hi",
+          "nori": "guri"
+        },
+        {
+          "form": "hakieke",
+          "nor": "hi",
+          "nori": "haiei"
+        },
+        {
+          "form": "dakidake",
+          "nor": "hura",
+          "nori": "niri"
+        },
+        {
+          "form": "dakiake",
+          "nor": "hura",
+          "nori": "hiri"
+        },
+        {
+          "form": "dakioke",
+          "nor": "hura",
+          "nori": "hari"
+        },
+        {
+          "form": "dakiguke",
+          "nor": "hura",
+          "nori": "guri"
+        },
+        {
+          "form": "dakizuke",
+          "nor": "hura",
+          "nori": "zuri"
+        },
+        {
+          "form": "dakizueke",
+          "nor": "hura",
+          "nori": "zuei"
+        },
+        {
+          "form": "dakieke",
+          "nor": "hura",
+          "nori": "haiei"
+        },
+        {
+          "form": "gakizkiake",
+          "nor": "gu",
+          "nori": "hiri"
+        },
+        {
+          "form": "gakizkioke",
+          "nor": "gu",
+          "nori": "hari"
+        },
+        {
+          "form": "gakizkizuke",
+          "nor": "gu",
+          "nori": "zuri"
+        },
+        {
+          "form": "gakizkizueke",
+          "nor": "gu",
+          "nori": "zuei"
+        },
+        {
+          "form": "gakizkieke",
+          "nor": "gu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zakizkidake",
+          "nor": "zu",
+          "nori": "niri"
+        },
+        {
+          "form": "zakizkioke",
+          "nor": "zu",
+          "nori": "hari"
+        },
+        {
+          "form": "zakizkiguke",
+          "nor": "zu",
+          "nori": "guri"
+        },
+        {
+          "form": "zakizkieke",
+          "nor": "zu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zakizkidakete",
+          "nor": "zuek",
+          "nori": "niri"
+        },
+        {
+          "form": "zakizkiokete",
+          "nor": "zuek",
+          "nori": "hari"
+        },
+        {
+          "form": "zakizkigukete",
+          "nor": "zuek",
+          "nori": "guri"
+        },
+        {
+          "form": "zakizkiekete",
+          "nor": "zuek",
+          "nori": "haiei"
+        },
+        {
+          "form": "dakizkidake",
+          "nor": "haiek",
+          "nori": "niri"
+        },
+        {
+          "form": "dakizkiake",
+          "nor": "haiek",
+          "nori": "hiri"
+        },
+        {
+          "form": "dakizkioke",
+          "nor": "haiek",
+          "nori": "hari"
+        },
+        {
+          "form": "dakizkiguke",
+          "nor": "haiek",
+          "nori": "guri"
+        },
+        {
+          "form": "dakizkizuke",
+          "nor": "haiek",
+          "nori": "zuri"
+        },
+        {
+          "form": "dakizkizueke",
+          "nor": "haiek",
+          "nori": "zuei"
+        },
+        {
+          "form": "dakizkieke",
+          "nor": "haiek",
+          "nori": "haiei"
+        }
+      ]
+    },
+    "baldintza": [
+      {
+        "form": "banintzaik",
+        "nor": "ni",
+        "nori": "hiri"
+      },
+      {
+        "form": "banintzaio",
+        "nor": "ni",
+        "nori": "hari"
+      },
+      {
+        "form": "banintzaizu",
+        "nor": "ni",
+        "nori": "zuri"
+      },
+      {
+        "form": "banintzaizue",
+        "nor": "ni",
+        "nori": "zuei"
+      },
+      {
+        "form": "banintzaie",
+        "nor": "ni",
+        "nori": "haiei"
+      },
+      {
+        "form": "bahintzait",
+        "nor": "hi",
+        "nori": "niri"
+      },
+      {
+        "form": "bahintzaio",
+        "nor": "hi",
+        "nori": "hari"
+      },
+      {
+        "form": "bahintzaigu",
+        "nor": "hi",
+        "nori": "guri"
+      },
+      {
+        "form": "bahintzaie",
+        "nor": "hi",
+        "nori": "haiei"
+      },
+      {
+        "form": "balitzait",
+        "nor": "hura",
+        "nori": "niri"
+      },
+      {
+        "form": "balitzaik",
+        "nor": "hura",
+        "nori": "hiri"
+      },
+      {
+        "form": "balitzaio",
+        "nor": "hura",
+        "nori": "hari"
+      },
+      {
+        "form": "balitzaigu",
+        "nor": "hura",
+        "nori": "guri"
+      },
+      {
+        "form": "balitzaizu",
+        "nor": "hura",
+        "nori": "zuri"
+      },
+      {
+        "form": "balitzaizue",
+        "nor": "hura",
+        "nori": "zuei"
+      },
+      {
+        "form": "balitzaie",
+        "nor": "hura",
+        "nori": "haiei"
+      },
+      {
+        "form": "bagintzaizkik",
+        "nor": "gu",
+        "nori": "hiri"
+      },
+      {
+        "form": "bagintzaizkio",
+        "nor": "gu",
+        "nori": "hari"
+      },
+      {
+        "form": "bagintzaizkizu",
+        "nor": "gu",
+        "nori": "zuri"
+      },
+      {
+        "form": "bagintzaizkizue",
+        "nor": "gu",
+        "nori": "zuei"
+      },
+      {
+        "form": "bagintzaizkie",
+        "nor": "gu",
+        "nori": "haiei"
+      },
+      {
+        "form": "bazintzaizkit",
+        "nor": "zu",
+        "nori": "niri"
+      },
+      {
+        "form": "bazintzaizkio",
+        "nor": "zu",
+        "nori": "hari"
+      },
+      {
+        "form": "bazintzaizkigu",
+        "nor": "zu",
+        "nori": "guri"
+      },
+      {
+        "form": "bazintzaizkie",
+        "nor": "zu",
+        "nori": "haiei"
+      },
+      {
+        "form": "bazintzaizkidate",
+        "nor": "zuek",
+        "nori": "niri"
+      },
+      {
+        "form": "bazintzaizkiote",
+        "nor": "zuek",
+        "nori": "hari"
+      },
+      {
+        "form": "bazintzaizkigute",
+        "nor": "zuek",
+        "nori": "guri"
+      },
+      {
+        "form": "bazintzaizkiete",
+        "nor": "zuek",
+        "nori": "haiei"
+      },
+      {
+        "form": "balitzaizkit",
+        "nor": "haiek",
+        "nori": "niri"
+      },
+      {
+        "form": "balitzaizkik",
+        "nor": "haiek",
+        "nori": "hiri"
+      },
+      {
+        "form": "balitzaizkio",
+        "nor": "haiek",
+        "nori": "hari"
+      },
+      {
+        "form": "balitzaizkigu",
+        "nor": "haiek",
+        "nori": "guri"
+      },
+      {
+        "form": "balitzaizkizu",
+        "nor": "haiek",
+        "nori": "zuri"
+      },
+      {
+        "form": "balitzaizkizue",
+        "nor": "haiek",
+        "nori": "zuei"
+      },
+      {
+        "form": "balitzaizkie",
+        "nor": "haiek",
+        "nori": "haiei"
+      }
+    ],
+    "hipotetikoa": [
+      {
+        "form": "nenkiake",
+        "nor": "ni",
+        "nori": "hiri"
+      },
+      {
+        "form": "nenkioke",
+        "nor": "ni",
+        "nori": "hari"
+      },
+      {
+        "form": "nenkizuke",
+        "nor": "ni",
+        "nori": "zuri"
+      },
+      {
+        "form": "nenkizueke",
+        "nor": "ni",
+        "nori": "zuei"
+      },
+      {
+        "form": "nenkieke",
+        "nor": "ni",
+        "nori": "haiei"
+      },
+      {
+        "form": "henkidake",
+        "nor": "hi",
+        "nori": "niri"
+      },
+      {
+        "form": "henkioke",
+        "nor": "hi",
+        "nori": "hari"
+      },
+      {
+        "form": "henkiguke",
+        "nor": "hi",
+        "nori": "guri"
+      },
+      {
+        "form": "henkieke",
+        "nor": "hi",
+        "nori": "haiei"
+      },
+      {
+        "form": "lekidake",
+        "nor": "hura",
+        "nori": "niri"
+      },
+      {
+        "form": "lekiake",
+        "nor": "hura",
+        "nori": "hiri"
+      },
+      {
+        "form": "lekioke",
+        "nor": "hura",
+        "nori": "hari"
+      },
+      {
+        "form": "lekiguke",
+        "nor": "hura",
+        "nori": "guri"
+      },
+      {
+        "form": "lekizuke",
+        "nor": "hura",
+        "nori": "zuri"
+      },
+      {
+        "form": "lekizueke",
+        "nor": "hura",
+        "nori": "zuei"
+      },
+      {
+        "form": "lekieke",
+        "nor": "hura",
+        "nori": "haiei"
+      },
+      {
+        "form": "genkizkiake",
+        "nor": "gu",
+        "nori": "hiri"
+      },
+      {
+        "form": "genkizkioke",
+        "nor": "gu",
+        "nori": "hari"
+      },
+      {
+        "form": "genkizkizuke",
+        "nor": "gu",
+        "nori": "zuri"
+      },
+      {
+        "form": "genkizkizueke",
+        "nor": "gu",
+        "nori": "zuei"
+      },
+      {
+        "form": "genkizkieke",
+        "nor": "gu",
+        "nori": "haiei"
+      },
+      {
+        "form": "zenkizkidake",
+        "nor": "zu",
+        "nori": "niri"
+      },
+      {
+        "form": "zenkizkioke",
+        "nor": "zu",
+        "nori": "hari"
+      },
+      {
+        "form": "zenkizkiguke",
+        "nor": "zu",
+        "nori": "guri"
+      },
+      {
+        "form": "zenkizkieke",
+        "nor": "zu",
+        "nori": "haiei"
+      },
+      {
+        "form": "zenkizkidakete",
+        "nor": "zuek",
+        "nori": "niri"
+      },
+      {
+        "form": "zenkizkiokete",
+        "nor": "zuek",
+        "nori": "hari"
+      },
+      {
+        "form": "zenkizkigukete",
+        "nor": "zuek",
+        "nori": "guri"
+      },
+      {
+        "form": "zenkizkiekete",
+        "nor": "zuek",
+        "nori": "haiei"
+      },
+      {
+        "form": "lekizkidake",
+        "nor": "haiek",
+        "nori": "niri"
+      },
+      {
+        "form": "lekizkiake",
+        "nor": "haiek",
+        "nori": "hiri"
+      },
+      {
+        "form": "lekizkioke",
+        "nor": "haiek",
+        "nori": "hari"
+      },
+      {
+        "form": "lekizkiguke",
+        "nor": "haiek",
+        "nori": "guri"
+      },
+      {
+        "form": "lekizkizuke",
+        "nor": "haiek",
+        "nori": "zuri"
+      },
+      {
+        "form": "lekizkizueke",
+        "nor": "haiek",
+        "nori": "zuei"
+      },
+      {
+        "form": "lekizkieke",
+        "nor": "haiek",
+        "nori": "haiei"
+      }
+    ],
+    "indikatiboa": {
+      "lehen": [
+        {
+          "form": "nintzaian",
+          "nor": "ni",
+          "nori": "hiri"
+        },
+        {
+          "form": "nintzaion",
+          "nor": "ni",
+          "nori": "hari"
+        },
+        {
+          "form": "nintzaizun",
+          "nor": "ni",
+          "nori": "zuri"
+        },
+        {
+          "form": "nintzaizuen",
+          "nor": "ni",
+          "nori": "zuei"
+        },
+        {
+          "form": "nintzaien",
+          "nor": "ni",
+          "nori": "haiei"
+        },
+        {
+          "form": "hintzaidan",
+          "nor": "hi",
+          "nori": "niri"
+        },
+        {
+          "form": "hintzaion",
+          "nor": "hi",
+          "nori": "hari"
+        },
+        {
+          "form": "hintzaigun",
+          "nor": "hi",
+          "nori": "guri"
+        },
+        {
+          "form": "hintzaien",
+          "nor": "hi",
+          "nori": "haiei"
+        },
+        {
+          "form": "zitzaidan",
+          "nor": "hura",
+          "nori": "niri"
+        },
+        {
+          "form": "zitzaian",
+          "nor": "hura",
+          "nori": "hiri"
+        },
+        {
+          "form": "zitzaion",
+          "nor": "hura",
+          "nori": "hari"
+        },
+        {
+          "form": "zitzaigun",
+          "nor": "hura",
+          "nori": "guri"
+        },
+        {
+          "form": "zitzaizun",
+          "nor": "hura",
+          "nori": "zuri"
+        },
+        {
+          "form": "zitzaizuen",
+          "nor": "hura",
+          "nori": "zuei"
+        },
+        {
+          "form": "zitzaien",
+          "nor": "hura",
+          "nori": "haiei"
+        },
+        {
+          "form": "gintzaizkian",
+          "nor": "gu",
+          "nori": "hiri"
+        },
+        {
+          "form": "gintzaizkion",
+          "nor": "gu",
+          "nori": "hari"
+        },
+        {
+          "form": "gintzaizkizun",
+          "nor": "gu",
+          "nori": "zuri"
+        },
+        {
+          "form": "gintzaizkizuen",
+          "nor": "gu",
+          "nori": "zuei"
+        },
+        {
+          "form": "gintzaizkien",
+          "nor": "gu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zintzaizkidan",
+          "nor": "zu",
+          "nori": "niri"
+        },
+        {
+          "form": "zintzaizkion",
+          "nor": "zu",
+          "nori": "hari"
+        },
+        {
+          "form": "zintzaizkigun",
+          "nor": "zu",
+          "nori": "guri"
+        },
+        {
+          "form": "zintzaizkien",
+          "nor": "zu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zintzaizkidaten",
+          "nor": "zuek",
+          "nori": "niri"
+        },
+        {
+          "form": "zintzaizkioten",
+          "nor": "zuek",
+          "nori": "hari"
+        },
+        {
+          "form": "zintzaizkiguten",
+          "nor": "zuek",
+          "nori": "guri"
+        },
+        {
+          "form": "zintzaizkieten",
+          "nor": "zuek",
+          "nori": "haiei"
+        },
+        {
+          "form": "zitzaizkidan",
+          "nor": "haiek",
+          "nori": "niri"
+        },
+        {
+          "form": "zitzaizkian",
+          "nor": "haiek",
+          "nori": "hiri"
+        },
+        {
+          "form": "zitzaizkion",
+          "nor": "haiek",
+          "nori": "hari"
+        },
+        {
+          "form": "zitzaizkigun",
+          "nor": "haiek",
+          "nori": "guri"
+        },
+        {
+          "form": "zitzaizkizun",
+          "nor": "haiek",
+          "nori": "zuri"
+        },
+        {
+          "form": "zitzaizkizuen",
+          "nor": "haiek",
+          "nori": "zuei"
+        },
+        {
+          "form": "zitzaizkien",
+          "nor": "haiek",
+          "nori": "haiei"
+        }
+      ],
+      "orain": [
+        {
+          "form": "natzaik",
+          "nor": "ni",
+          "nori": "hiri"
+        },
+        {
+          "form": "natzaio",
+          "nor": "ni",
+          "nori": "hari"
+        },
+        {
+          "form": "natzaizu",
+          "nor": "ni",
+          "nori": "zuri"
+        },
+        {
+          "form": "natzaizue",
+          "nor": "ni",
+          "nori": "zuei"
+        },
+        {
+          "form": "natzaie",
+          "nor": "ni",
+          "nori": "haiei"
+        },
+        {
+          "form": "hatzait",
+          "nor": "hi",
+          "nori": "niri"
+        },
+        {
+          "form": "hatzaio",
+          "nor": "hi",
+          "nori": "hari"
+        },
+        {
+          "form": "hatzaigu",
+          "nor": "hi",
+          "nori": "guri"
+        },
+        {
+          "form": "hatzaie",
+          "nor": "hi",
+          "nori": "haiei"
+        },
+        {
+          "form": "zait",
+          "nor": "hura",
+          "nori": "niri"
+        },
+        {
+          "form": "zaik",
+          "nor": "hura",
+          "nori": "hiri"
+        },
+        {
+          "form": "zaio",
+          "nor": "hura",
+          "nori": "hari"
+        },
+        {
+          "form": "zaigu",
+          "nor": "hura",
+          "nori": "guri"
+        },
+        {
+          "form": "zaizu",
+          "nor": "hura",
+          "nori": "zuri"
+        },
+        {
+          "form": "zaizue",
+          "nor": "hura",
+          "nori": "zuei"
+        },
+        {
+          "form": "zaie",
+          "nor": "hura",
+          "nori": "haiei"
+        },
+        {
+          "form": "gatzaizkik",
+          "nor": "gu",
+          "nori": "hiri"
+        },
+        {
+          "form": "gatzaizkio",
+          "nor": "gu",
+          "nori": "hari"
+        },
+        {
+          "form": "gatzaizkizu",
+          "nor": "gu",
+          "nori": "zuri"
+        },
+        {
+          "form": "gatzaizkizue",
+          "nor": "gu",
+          "nori": "zuei"
+        },
+        {
+          "form": "gatzaizkie",
+          "nor": "gu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zatzaizkit",
+          "nor": "zu",
+          "nori": "niri"
+        },
+        {
+          "form": "zatzaizkio",
+          "nor": "zu",
+          "nori": "hari"
+        },
+        {
+          "form": "zatzaizkigu",
+          "nor": "zu",
+          "nori": "guri"
+        },
+        {
+          "form": "zatzaizkie",
+          "nor": "zu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zatzaizkidate",
+          "nor": "zuek",
+          "nori": "niri"
+        },
+        {
+          "form": "zatzaizkiote",
+          "nor": "zuek",
+          "nori": "hari"
+        },
+        {
+          "form": "zatzaizkigute",
+          "nor": "zuek",
+          "nori": "guri"
+        },
+        {
+          "form": "zatzaizkiete",
+          "nor": "zuek",
+          "nori": "haiei"
+        },
+        {
+          "form": "zaizkit",
+          "nor": "haiek",
+          "nori": "niri"
+        },
+        {
+          "form": "zaizkik",
+          "nor": "haiek",
+          "nori": "hiri"
+        },
+        {
+          "form": "zaizkio",
+          "nor": "haiek",
+          "nori": "hari"
+        },
+        {
+          "form": "zaizkigu",
+          "nor": "haiek",
+          "nori": "guri"
+        },
+        {
+          "form": "zaizkizu",
+          "nor": "haiek",
+          "nori": "zuri"
+        },
+        {
+          "form": "zaizkizue",
+          "nor": "haiek",
+          "nori": "zuei"
+        },
+        {
+          "form": "zaizkie",
+          "nor": "haiek",
+          "nori": "haiei"
+        }
+      ]
+    },
+    "ondorioa": {
+      "lehen": [
+        {
+          "form": "nintzaiakeen",
+          "nor": "ni",
+          "nori": "hiri"
+        },
+        {
+          "form": "nintzaiokeen",
+          "nor": "ni",
+          "nori": "hari"
+        },
+        {
+          "form": "nintzaizukeen",
+          "nor": "ni",
+          "nori": "zuri"
+        },
+        {
+          "form": "nintzaizuekeen",
+          "nor": "ni",
+          "nori": "zuei"
+        },
+        {
+          "form": "nintzaiekeen",
+          "nor": "ni",
+          "nori": "haiei"
+        },
+        {
+          "form": "hintzaidakeen",
+          "nor": "hi",
+          "nori": "niri"
+        },
+        {
+          "form": "hintzaiokeen",
+          "nor": "hi",
+          "nori": "hari"
+        },
+        {
+          "form": "hintzaigukeen",
+          "nor": "hi",
+          "nori": "guri"
+        },
+        {
+          "form": "hintzaiekeen",
+          "nor": "hi",
+          "nori": "haiei"
+        },
+        {
+          "form": "zitzaidakeen",
+          "nor": "hura",
+          "nori": "niri"
+        },
+        {
+          "form": "zitzaiakeen",
+          "nor": "hura",
+          "nori": "hiri"
+        },
+        {
+          "form": "zitzaiokeen",
+          "nor": "hura",
+          "nori": "hari"
+        },
+        {
+          "form": "zitzaigukeen",
+          "nor": "hura",
+          "nori": "guri"
+        },
+        {
+          "form": "zitzaizukeen",
+          "nor": "hura",
+          "nori": "zuri"
+        },
+        {
+          "form": "zitzaizuekeen",
+          "nor": "hura",
+          "nori": "zuei"
+        },
+        {
+          "form": "zitzaiekeen",
+          "nor": "hura",
+          "nori": "haiei"
+        },
+        {
+          "form": "gintzaizkiakeen",
+          "nor": "gu",
+          "nori": "hiri"
+        },
+        {
+          "form": "gintzaizkiokeen",
+          "nor": "gu",
+          "nori": "hari"
+        },
+        {
+          "form": "gintzaizkizukeen",
+          "nor": "gu",
+          "nori": "zuri"
+        },
+        {
+          "form": "gintzaizkizuekeen",
+          "nor": "gu",
+          "nori": "zuei"
+        },
+        {
+          "form": "gintzaizkiekeen",
+          "nor": "gu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zintzaizkidakeen",
+          "nor": "zu",
+          "nori": "niri"
+        },
+        {
+          "form": "zintzaizkiokeen",
+          "nor": "zu",
+          "nori": "hari"
+        },
+        {
+          "form": "zintzaizkigukeen",
+          "nor": "zu",
+          "nori": "guri"
+        },
+        {
+          "form": "zintzaizkiekeen",
+          "nor": "zu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zintzaizkidaketen",
+          "nor": "zuek",
+          "nori": "niri"
+        },
+        {
+          "form": "zintzaizkioketen",
+          "nor": "zuek",
+          "nori": "hari"
+        },
+        {
+          "form": "zintzaizkiguketen",
+          "nor": "zuek",
+          "nori": "guri"
+        },
+        {
+          "form": "zintzaizkieketen",
+          "nor": "zuek",
+          "nori": "haiei"
+        },
+        {
+          "form": "zitzaizkidakeen",
+          "nor": "haiek",
+          "nori": "niri"
+        },
+        {
+          "form": "zitzaizkiakeen",
+          "nor": "haiek",
+          "nori": "hiri"
+        },
+        {
+          "form": "zitzaizkiokeen",
+          "nor": "haiek",
+          "nori": "hari"
+        },
+        {
+          "form": "zitzaizkigukeen",
+          "nor": "haiek",
+          "nori": "guri"
+        },
+        {
+          "form": "zitzaizkizukeen",
+          "nor": "haiek",
+          "nori": "zuri"
+        },
+        {
+          "form": "zitzaizkizuekeen",
+          "nor": "haiek",
+          "nori": "zuei"
+        },
+        {
+          "form": "zitzaizkiekeen",
+          "nor": "haiek",
+          "nori": "haiei"
+        }
+      ],
+      "orain": [
+        {
+          "form": "nintzaiake",
+          "nor": "ni",
+          "nori": "hiri"
+        },
+        {
+          "form": "nintzaioke",
+          "nor": "ni",
+          "nori": "hari"
+        },
+        {
+          "form": "nintzaizuke",
+          "nor": "ni",
+          "nori": "zuri"
+        },
+        {
+          "form": "nintzaizueke",
+          "nor": "ni",
+          "nori": "zuei"
+        },
+        {
+          "form": "nintzaieke",
+          "nor": "ni",
+          "nori": "haiei"
+        },
+        {
+          "form": "hintzaidake",
+          "nor": "hi",
+          "nori": "niri"
+        },
+        {
+          "form": "hintzaioke",
+          "nor": "hi",
+          "nori": "hari"
+        },
+        {
+          "form": "hintzaiguke",
+          "nor": "hi",
+          "nori": "guri"
+        },
+        {
+          "form": "hintzaieke",
+          "nor": "hi",
+          "nori": "haiei"
+        },
+        {
+          "form": "litzaidake",
+          "nor": "hura",
+          "nori": "niri"
+        },
+        {
+          "form": "litzaiake",
+          "nor": "hura",
+          "nori": "hiri"
+        },
+        {
+          "form": "litzaioke",
+          "nor": "hura",
+          "nori": "hari"
+        },
+        {
+          "form": "litzaiguke",
+          "nor": "hura",
+          "nori": "guri"
+        },
+        {
+          "form": "litzaizuke",
+          "nor": "hura",
+          "nori": "zuri"
+        },
+        {
+          "form": "litzaizueke",
+          "nor": "hura",
+          "nori": "zuei"
+        },
+        {
+          "form": "litzaieke",
+          "nor": "hura",
+          "nori": "haiei"
+        },
+        {
+          "form": "gintzaizkiake",
+          "nor": "gu",
+          "nori": "hiri"
+        },
+        {
+          "form": "gintzaizkioke",
+          "nor": "gu",
+          "nori": "hari"
+        },
+        {
+          "form": "gintzaizkizuke",
+          "nor": "gu",
+          "nori": "zuri"
+        },
+        {
+          "form": "gintzaizkizueke",
+          "nor": "gu",
+          "nori": "zuei"
+        },
+        {
+          "form": "gintzaizkieke",
+          "nor": "gu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zintzaizkidake",
+          "nor": "zu",
+          "nori": "niri"
+        },
+        {
+          "form": "zintzaizkioke",
+          "nor": "zu",
+          "nori": "hari"
+        },
+        {
+          "form": "zintzaizkiguke",
+          "nor": "zu",
+          "nori": "guri"
+        },
+        {
+          "form": "zintzaizkieke",
+          "nor": "zu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zintzaizkidakete",
+          "nor": "zuek",
+          "nori": "niri"
+        },
+        {
+          "form": "zintzaizkiokete",
+          "nor": "zuek",
+          "nori": "hari"
+        },
+        {
+          "form": "zintzaizkigukete",
+          "nor": "zuek",
+          "nori": "guri"
+        },
+        {
+          "form": "zintzaizkiekete",
+          "nor": "zuek",
+          "nori": "haiei"
+        },
+        {
+          "form": "litzaizkidake",
+          "nor": "haiek",
+          "nori": "niri"
+        },
+        {
+          "form": "litzaizkiake",
+          "nor": "haiek",
+          "nori": "hiri"
+        },
+        {
+          "form": "litzaizkioke",
+          "nor": "haiek",
+          "nori": "hari"
+        },
+        {
+          "form": "litzaizkiguke",
+          "nor": "haiek",
+          "nori": "guri"
+        },
+        {
+          "form": "litzaizkizuke",
+          "nor": "haiek",
+          "nori": "zuri"
+        },
+        {
+          "form": "litzaizkizueke",
+          "nor": "haiek",
+          "nori": "zuei"
+        },
+        {
+          "form": "litzaizkieke",
+          "nor": "haiek",
+          "nori": "haiei"
+        }
+      ]
+    },
+    "subjuntiboa": {
+      "lehen": [
+        {
+          "form": "nenkian",
+          "nor": "ni",
+          "nori": "hiri"
+        },
+        {
+          "form": "nenkion",
+          "nor": "ni",
+          "nori": "hari"
+        },
+        {
+          "form": "nenkizun",
+          "nor": "ni",
+          "nori": "zuri"
+        },
+        {
+          "form": "nenkizuen",
+          "nor": "ni",
+          "nori": "zuei"
+        },
+        {
+          "form": "nenkien",
+          "nor": "ni",
+          "nori": "haiei"
+        },
+        {
+          "form": "henkidan",
+          "nor": "hi",
+          "nori": "niri"
+        },
+        {
+          "form": "henkion",
+          "nor": "hi",
+          "nori": "hari"
+        },
+        {
+          "form": "henkigun",
+          "nor": "hi",
+          "nori": "guri"
+        },
+        {
+          "form": "henkien",
+          "nor": "hi",
+          "nori": "haiei"
+        },
+        {
+          "form": "zekidan",
+          "nor": "hura",
+          "nori": "niri"
+        },
+        {
+          "form": "zekian",
+          "nor": "hura",
+          "nori": "hiri"
+        },
+        {
+          "form": "zekion",
+          "nor": "hura",
+          "nori": "hari"
+        },
+        {
+          "form": "zekigun",
+          "nor": "hura",
+          "nori": "guri"
+        },
+        {
+          "form": "zekizun",
+          "nor": "hura",
+          "nori": "zuri"
+        },
+        {
+          "form": "zekizuen",
+          "nor": "hura",
+          "nori": "zuei"
+        },
+        {
+          "form": "zekien",
+          "nor": "hura",
+          "nori": "haiei"
+        },
+        {
+          "form": "genkizkian",
+          "nor": "gu",
+          "nori": "hiri"
+        },
+        {
+          "form": "genkizkion",
+          "nor": "gu",
+          "nori": "hari"
+        },
+        {
+          "form": "genkizkizun",
+          "nor": "gu",
+          "nori": "zuri"
+        },
+        {
+          "form": "genkizkizuen",
+          "nor": "gu",
+          "nori": "zuei"
+        },
+        {
+          "form": "genkizkien",
+          "nor": "gu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zenkizkidan",
+          "nor": "zu",
+          "nori": "niri"
+        },
+        {
+          "form": "zenkizkion",
+          "nor": "zu",
+          "nori": "hari"
+        },
+        {
+          "form": "zenkizkigun",
+          "nor": "zu",
+          "nori": "guri"
+        },
+        {
+          "form": "zenkizkien",
+          "nor": "zu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zenkizkidaten",
+          "nor": "zuek",
+          "nori": "niri"
+        },
+        {
+          "form": "zenkizkioten",
+          "nor": "zuek",
+          "nori": "hari"
+        },
+        {
+          "form": "zenkizkiguten",
+          "nor": "zuek",
+          "nori": "guri"
+        },
+        {
+          "form": "zenkizkieten",
+          "nor": "zuek",
+          "nori": "haiei"
+        },
+        {
+          "form": "zekizkidan",
+          "nor": "haiek",
+          "nori": "niri"
+        },
+        {
+          "form": "zekizkian",
+          "nor": "haiek",
+          "nori": "hiri"
+        },
+        {
+          "form": "zekizkion",
+          "nor": "haiek",
+          "nori": "hari"
+        },
+        {
+          "form": "zekizkigun",
+          "nor": "haiek",
+          "nori": "guri"
+        },
+        {
+          "form": "zekizkizun",
+          "nor": "haiek",
+          "nori": "zuri"
+        },
+        {
+          "form": "zekizkizuen",
+          "nor": "haiek",
+          "nori": "zuei"
+        },
+        {
+          "form": "zekizkien",
+          "nor": "haiek",
+          "nori": "haiei"
+        }
+      ],
+      "orain": [
+        {
+          "form": "nakian",
+          "nor": "ni",
+          "nori": "hiri"
+        },
+        {
+          "form": "nakion",
+          "nor": "ni",
+          "nori": "hari"
+        },
+        {
+          "form": "nakizun",
+          "nor": "ni",
+          "nori": "zuri"
+        },
+        {
+          "form": "nakizuen",
+          "nor": "ni",
+          "nori": "zuei"
+        },
+        {
+          "form": "nakien",
+          "nor": "ni",
+          "nori": "haiei"
+        },
+        {
+          "form": "hakidan",
+          "nor": "hi",
+          "nori": "niri"
+        },
+        {
+          "form": "hakion",
+          "nor": "hi",
+          "nori": "hari"
+        },
+        {
+          "form": "hakigun",
+          "nor": "hi",
+          "nori": "guri"
+        },
+        {
+          "form": "hakien",
+          "nor": "hi",
+          "nori": "haiei"
+        },
+        {
+          "form": "dakidan",
+          "nor": "hura",
+          "nori": "niri"
+        },
+        {
+          "form": "dakian",
+          "nor": "hura",
+          "nori": "hiri"
+        },
+        {
+          "form": "dakion",
+          "nor": "hura",
+          "nori": "hari"
+        },
+        {
+          "form": "dakigun",
+          "nor": "hura",
+          "nori": "guri"
+        },
+        {
+          "form": "dakizun",
+          "nor": "hura",
+          "nori": "zuri"
+        },
+        {
+          "form": "dakizuen",
+          "nor": "hura",
+          "nori": "zuei"
+        },
+        {
+          "form": "dakien",
+          "nor": "hura",
+          "nori": "haiei"
+        },
+        {
+          "form": "gakizkian",
+          "nor": "gu",
+          "nori": "hiri"
+        },
+        {
+          "form": "gakizkion",
+          "nor": "gu",
+          "nori": "hari"
+        },
+        {
+          "form": "gakizkizun",
+          "nor": "gu",
+          "nori": "zuri"
+        },
+        {
+          "form": "gakizkizuen",
+          "nor": "gu",
+          "nori": "zuei"
+        },
+        {
+          "form": "gakizkien",
+          "nor": "gu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zakizkidan",
+          "nor": "zu",
+          "nori": "niri"
+        },
+        {
+          "form": "zakizkion",
+          "nor": "zu",
+          "nori": "hari"
+        },
+        {
+          "form": "zakizkigun",
+          "nor": "zu",
+          "nori": "guri"
+        },
+        {
+          "form": "zakizkien",
+          "nor": "zu",
+          "nori": "haiei"
+        },
+        {
+          "form": "zakizkidaten",
+          "nor": "zuek",
+          "nori": "niri"
+        },
+        {
+          "form": "zakizkioten",
+          "nor": "zuek",
+          "nori": "hari"
+        },
+        {
+          "form": "zakizkiguten",
+          "nor": "zuek",
+          "nori": "guri"
+        },
+        {
+          "form": "zakizkieten",
+          "nor": "zuek",
+          "nori": "haiei"
+        },
+        {
+          "form": "dakizkidan",
+          "nor": "haiek",
+          "nori": "niri"
+        },
+        {
+          "form": "dakizkian",
+          "nor": "haiek",
+          "nori": "hiri"
+        },
+        {
+          "form": "dakizkion",
+          "nor": "haiek",
+          "nori": "hari"
+        },
+        {
+          "form": "dakizkigun",
+          "nor": "haiek",
+          "nori": "guri"
+        },
+        {
+          "form": "dakizkizun",
+          "nor": "haiek",
+          "nori": "zuri"
+        },
+        {
+          "form": "dakizkizuen",
+          "nor": "haiek",
+          "nori": "zuei"
+        },
+        {
+          "form": "dakizkien",
+          "nor": "haiek",
+          "nori": "haiei"
+        }
+      ]
+    }
+  },
+  "nor-nork": {
+    "agintera": [
+      {
+        "form": "nazak",
+        "nor": "ni",
+        "nork": "hik"
+      },
+      {
+        "form": "ezak",
+        "nor": "hura",
+        "nork": "hik"
+      },
+      {
+        "form": "gaitzak",
+        "nor": "gu",
+        "nork": "hik"
+      },
+      {
+        "form": "itzak",
+        "nor": "haiek",
+        "nork": "hik"
+      },
+      {
+        "form": "naza",
+        "nor": "ni",
+        "nork": "hark"
+      },
+      {
+        "form": "haza",
+        "nor": "hi",
+        "nork": "hark"
+      },
+      {
+        "form": "beza",
+        "nor": "hura",
+        "nork": "hark"
+      },
+      {
+        "form": "gaitza",
+        "nor": "gu",
+        "nork": "hark"
+      },
+      {
+        "form": "zaitza",
+        "nor": "zu",
+        "nork": "hark"
+      },
+      {
+        "form": "zaitzate",
+        "nor": "zuek",
+        "nork": "hark"
+      },
+      {
+        "form": "bitza",
+        "nor": "haiek",
+        "nork": "hark"
+      },
+      {
+        "form": "nazazu",
+        "nor": "ni",
+        "nork": "zuk"
+      },
+      {
+        "form": "ezazu",
+        "nor": "hura",
+        "nork": "zuk"
+      },
+      {
+        "form": "gaitzazu",
+        "nor": "gu",
+        "nork": "zuk"
+      },
+      {
+        "form": "itzazu",
+        "nor": "haiek",
+        "nork": "zuk"
+      },
+      {
+        "form": "nazazue",
+        "nor": "ni",
+        "nork": "zuek"
+      },
+      {
+        "form": "ezazue",
+        "nor": "hura",
+        "nork": "zuek"
+      },
+      {
+        "form": "gaitzazue",
+        "nor": "gu",
+        "nork": "zuek"
+      },
+      {
+        "form": "itzazue",
+        "nor": "haiek",
+        "nork": "zuek"
+      },
+      {
+        "form": "nazate",
+        "nor": "ni",
+        "nork": "haiek"
+      },
+      {
+        "form": "hazate",
+        "nor": "hi",
+        "nork": "haiek"
+      },
+      {
+        "form": "bezate",
+        "nor": "hura",
+        "nork": "haiek"
+      },
+      {
+        "form": "gaitzate",
+        "nor": "gu",
+        "nork": "haiek"
+      },
+      {
+        "form": "zaitzate",
+        "nor": "zu",
+        "nork": "haiek"
+      },
+      {
+        "form": "zaitzatete",
+        "nor": "zuek",
+        "nork": "haiek"
+      },
+      {
+        "form": "bitzate",
+        "nor": "haiek",
+        "nork": "haiek"
+      }
+    ],
+    "ahalera": {
+      "lehen": [
+        {
+          "form": "hintzakedan",
+          "nor": "hi",
+          "nork": "nik"
+        },
+        {
+          "form": "nezakeen",
+          "nor": "hura",
+          "nork": "nik"
+        },
+        {
+          "form": "zintzakedan",
+          "nor": "zu",
+          "nork": "nik"
+        },
+        {
+          "form": "zintzaketedan",
+          "nor": "zuek",
+          "nork": "nik"
+        },
+        {
+          "form": "nitzakeen",
+          "nor": "haiek",
+          "nork": "nik"
+        },
+        {
+          "form": "nintzakean",
+          "nor": "ni",
+          "nork": "hik"
+        },
+        {
+          "form": "hezakeen",
+          "nor": "hura",
+          "nork": "hik"
+        },
+        {
+          "form": "gintzakean",
+          "nor": "gu",
+          "nork": "hik"
+        },
+        {
+          "form": "hitzakeen",
+          "nor": "haiek",
+          "nork": "hik"
+        },
+        {
+          "form": "nintzakeen",
+          "nor": "ni",
+          "nork": "hark"
+        },
+        {
+          "form": "hintzakeen",
+          "nor": "hi",
+          "nork": "hark"
+        },
+        {
+          "form": "zezakeen",
+          "nor": "hura",
+          "nork": "hark"
+        },
+        {
+          "form": "gintzakeen",
+          "nor": "gu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintzakeen",
+          "nor": "zu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintzaketen",
+          "nor": "zuek",
+          "nork": "hark"
+        },
+        {
+          "form": "zitzakeen",
+          "nor": "haiek",
+          "nork": "hark"
+        },
+        {
+          "form": "hintzakegun",
+          "nor": "hi",
+          "nork": "guk"
+        },
+        {
+          "form": "genezakeen",
+          "nor": "hura",
+          "nork": "guk"
+        },
+        {
+          "form": "zintzakegun",
+          "nor": "zu",
+          "nork": "guk"
+        },
+        {
+          "form": "zintzaketegun",
+          "nor": "zuek",
+          "nork": "guk"
+        },
+        {
+          "form": "genitzakeen",
+          "nor": "haiek",
+          "nork": "guk"
+        },
+        {
+          "form": "nintzakezun",
+          "nor": "ni",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenezakeen",
+          "nor": "hura",
+          "nork": "zuk"
+        },
+        {
+          "form": "gintzakezun",
+          "nor": "gu",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenitzakeen",
+          "nor": "haiek",
+          "nork": "zuk"
+        },
+        {
+          "form": "nintzakezuen",
+          "nor": "ni",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenezaketen",
+          "nor": "hura",
+          "nork": "zuek"
+        },
+        {
+          "form": "gintzakezuen",
+          "nor": "gu",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenitzaketen",
+          "nor": "haiek",
+          "nork": "zuek"
+        },
+        {
+          "form": "nintzaketen",
+          "nor": "ni",
+          "nork": "haiek"
+        },
+        {
+          "form": "hintzaketen",
+          "nor": "hi",
+          "nork": "haiek"
+        },
+        {
+          "form": "zezaketen",
+          "nor": "hura",
+          "nork": "haiek"
+        },
+        {
+          "form": "gintzakete",
+          "nor": "gu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintzaketen",
+          "nor": "zu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintzaketeten",
+          "nor": "zuek",
+          "nork": "haiek"
+        },
+        {
+          "form": "zitzaketen",
+          "nor": "haiek",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "hazaket",
+          "nor": "hi",
+          "nork": "nik"
+        },
+        {
+          "form": "dezaket",
+          "nor": "hura",
+          "nork": "nik"
+        },
+        {
+          "form": "zaitzaket",
+          "nor": "zu",
+          "nork": "nik"
+        },
+        {
+          "form": "zaitzaketet",
+          "nor": "zuek",
+          "nork": "nik"
+        },
+        {
+          "form": "ditzaket",
+          "nor": "haiek",
+          "nork": "nik"
+        },
+        {
+          "form": "nazakek",
+          "nor": "ni",
+          "nork": "hik"
+        },
+        {
+          "form": "dezakek",
+          "nor": "hura",
+          "nork": "hik"
+        },
+        {
+          "form": "gaitzakek",
+          "nor": "gu",
+          "nork": "hik"
+        },
+        {
+          "form": "ditzakek",
+          "nor": "haiek",
+          "nork": "hik"
+        },
+        {
+          "form": "nazake",
+          "nor": "ni",
+          "nork": "hark"
+        },
+        {
+          "form": "hazake",
+          "nor": "hi",
+          "nork": "hark"
+        },
+        {
+          "form": "dezake",
+          "nor": "hura",
+          "nork": "hark"
+        },
+        {
+          "form": "gaitzake",
+          "nor": "gu",
+          "nork": "hark"
+        },
+        {
+          "form": "zaitzake",
+          "nor": "zu",
+          "nork": "hark"
+        },
+        {
+          "form": "zaitzakete",
+          "nor": "zuek",
+          "nork": "hark"
+        },
+        {
+          "form": "ditzake",
+          "nor": "haiek",
+          "nork": "hark"
+        },
+        {
+          "form": "hazakegu",
+          "nor": "hi",
+          "nork": "guk"
+        },
+        {
+          "form": "dezakegu",
+          "nor": "hura",
+          "nork": "guk"
+        },
+        {
+          "form": "zaitzakegu",
+          "nor": "zu",
+          "nork": "guk"
+        },
+        {
+          "form": "zaitzaketegu",
+          "nor": "zuek",
+          "nork": "guk"
+        },
+        {
+          "form": "ditzakegu",
+          "nor": "haiek",
+          "nork": "guk"
+        },
+        {
+          "form": "nazakezu",
+          "nor": "ni",
+          "nork": "zuk"
+        },
+        {
+          "form": "dezakezu",
+          "nor": "hura",
+          "nork": "zuk"
+        },
+        {
+          "form": "gaitzakezu",
+          "nor": "gu",
+          "nork": "zuk"
+        },
+        {
+          "form": "ditzakezu",
+          "nor": "haiek",
+          "nork": "zuk"
+        },
+        {
+          "form": "nazakezue",
+          "nor": "ni",
+          "nork": "zuek"
+        },
+        {
+          "form": "dezakezue",
+          "nor": "hura",
+          "nork": "zuek"
+        },
+        {
+          "form": "gaitzakezue",
+          "nor": "gu",
+          "nork": "zuek"
+        },
+        {
+          "form": "ditzakezue",
+          "nor": "haiek",
+          "nork": "zuek"
+        },
+        {
+          "form": "nazakete",
+          "nor": "ni",
+          "nork": "haiek"
+        },
+        {
+          "form": "hazakete",
+          "nor": "hi",
+          "nork": "haiek"
+        },
+        {
+          "form": "dezakete",
+          "nor": "hura",
+          "nork": "haiek"
+        },
+        {
+          "form": "gaitzakete",
+          "nor": "gu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zaitzakete",
+          "nor": "zu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zaitzaketete",
+          "nor": "zuek",
+          "nork": "haiek"
+        },
+        {
+          "form": "ditzakete",
+          "nor": "haiek",
+          "nork": "haiek"
+        }
+      ]
+    },
+    "baldintza": [
+      {
+        "form": "bahindut",
+        "nor": "hi",
+        "nork": "nik"
+      },
+      {
+        "form": "banu",
+        "nor": "hura",
+        "nork": "nik"
+      },
+      {
+        "form": "bazintut",
+        "nor": "zu",
+        "nork": "nik"
+      },
+      {
+        "form": "bazintuztet",
+        "nor": "zuek",
+        "nork": "nik"
+      },
+      {
+        "form": "banitu",
+        "nor": "haiek",
+        "nork": "nik"
+      },
+      {
+        "form": "baninduk",
+        "nor": "ni",
+        "nork": "hik"
+      },
+      {
+        "form": "bahu",
+        "nor": "hura",
+        "nork": "hik"
+      },
+      {
+        "form": "bagintuk",
+        "nor": "gu",
+        "nork": "hik"
+      },
+      {
+        "form": "bahitu",
+        "nor": "haiek",
+        "nork": "hik"
+      },
+      {
+        "form": "banindu",
+        "nor": "ni",
+        "nork": "hark"
+      },
+      {
+        "form": "bahindu",
+        "nor": "hi",
+        "nork": "hark"
+      },
+      {
+        "form": "balu",
+        "nor": "hura",
+        "nork": "hark"
+      },
+      {
+        "form": "bagintu",
+        "nor": "gu",
+        "nork": "hark"
+      },
+      {
+        "form": "bazintu",
+        "nor": "zu",
+        "nork": "hark"
+      },
+      {
+        "form": "bazintuzte",
+        "nor": "zuek",
+        "nork": "hark"
+      },
+      {
+        "form": "balitu",
+        "nor": "haiek",
+        "nork": "hark"
+      },
+      {
+        "form": "bahindugu",
+        "nor": "hi",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenu",
+        "nor": "hura",
+        "nork": "guk"
+      },
+      {
+        "form": "bazintugu",
+        "nor": "zu",
+        "nork": "guk"
+      },
+      {
+        "form": "bazintuztegu",
+        "nor": "zuek",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenitu",
+        "nor": "haiek",
+        "nork": "guk"
+      },
+      {
+        "form": "baninduzu",
+        "nor": "ni",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenu",
+        "nor": "hura",
+        "nork": "zuk"
+      },
+      {
+        "form": "bagintuzu",
+        "nor": "gu",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenitu",
+        "nor": "haiek",
+        "nork": "zuk"
+      },
+      {
+        "form": "baninduzue",
+        "nor": "ni",
+        "nork": "zuek"
+      },
+      {
+        "form": "bazenute",
+        "nor": "hura",
+        "nork": "zuek"
+      },
+      {
+        "form": "bagintuzue",
+        "nor": "gu",
+        "nork": "zuek"
+      },
+      {
+        "form": "bazenituzte",
+        "nor": "haiek",
+        "nork": "zuek"
+      },
+      {
+        "form": "banindute",
+        "nor": "ni",
+        "nork": "haiek"
+      },
+      {
+        "form": "bahindute",
+        "nor": "hi",
+        "nork": "haiek"
+      },
+      {
+        "form": "balute",
+        "nor": "hura",
+        "nork": "haiek"
+      },
+      {
+        "form": "bagintuzte",
+        "nor": "gu",
+        "nork": "haiek"
+      },
+      {
+        "form": "bazintuzte",
+        "nor": "zu",
+        "nork": "haiek"
+      },
+      {
+        "form": "bazintuztete",
+        "nor": "zuek",
+        "nork": "haiek"
+      },
+      {
+        "form": "balituzte",
+        "nor": "haiek",
+        "nork": "haiek"
+      }
+    ],
+    "hipotetikoa": [
+      {
+        "form": "hintzaket",
+        "nor": "hi",
+        "nork": "nik"
+      },
+      {
+        "form": "nezake",
+        "nor": "hura",
+        "nork": "nik"
+      },
+      {
+        "form": "zintzaket",
+        "nor": "zu",
+        "nork": "nik"
+      },
+      {
+        "form": "zintzaketet",
+        "nor": "zuek",
+        "nork": "nik"
+      },
+      {
+        "form": "nitzake",
+        "nor": "haiek",
+        "nork": "nik"
+      },
+      {
+        "form": "nintzakek",
+        "nor": "ni",
+        "nork": "hik"
+      },
+      {
+        "form": "hezake",
+        "nor": "hura",
+        "nork": "hik"
+      },
+      {
+        "form": "gintzakek",
+        "nor": "gu",
+        "nork": "hik"
+      },
+      {
+        "form": "hitzake",
+        "nor": "haiek",
+        "nork": "hik"
+      },
+      {
+        "form": "nintzake",
+        "nor": "ni",
+        "nork": "hark"
+      },
+      {
+        "form": "hintzake",
+        "nor": "hi",
+        "nork": "hark"
+      },
+      {
+        "form": "lezake",
+        "nor": "hura",
+        "nork": "hark"
+      },
+      {
+        "form": "gintzake",
+        "nor": "gu",
+        "nork": "hark"
+      },
+      {
+        "form": "zintzake",
+        "nor": "zu",
+        "nork": "hark"
+      },
+      {
+        "form": "zintzakete",
+        "nor": "zuek",
+        "nork": "hark"
+      },
+      {
+        "form": "litzake",
+        "nor": "haiek",
+        "nork": "hark"
+      },
+      {
+        "form": "hintzakegu",
+        "nor": "hi",
+        "nork": "guk"
+      },
+      {
+        "form": "genezake",
+        "nor": "hura",
+        "nork": "guk"
+      },
+      {
+        "form": "zintzakegu",
+        "nor": "zu",
+        "nork": "guk"
+      },
+      {
+        "form": "zintzaketegu",
+        "nor": "zuek",
+        "nork": "guk"
+      },
+      {
+        "form": "genitzake",
+        "nor": "haiek",
+        "nork": "guk"
+      },
+      {
+        "form": "nintzakezu",
+        "nor": "ni",
+        "nork": "zuk"
+      },
+      {
+        "form": "zenezake",
+        "nor": "hura",
+        "nork": "zuk"
+      },
+      {
+        "form": "gintzakezu",
+        "nor": "gu",
+        "nork": "zuk"
+      },
+      {
+        "form": "zenitzake",
+        "nor": "haiek",
+        "nork": "zuk"
+      },
+      {
+        "form": "nintzakezue",
+        "nor": "ni",
+        "nork": "zuek"
+      },
+      {
+        "form": "zenezakete",
+        "nor": "hura",
+        "nork": "zuek"
+      },
+      {
+        "form": "gintzakezue",
+        "nor": "gu",
+        "nork": "zuek"
+      },
+      {
+        "form": "zenitzakete",
+        "nor": "haiek",
+        "nork": "zuek"
+      },
+      {
+        "form": "nintzakete",
+        "nor": "ni",
+        "nork": "haiek"
+      },
+      {
+        "form": "hintzakete",
+        "nor": "hi",
+        "nork": "haiek"
+      },
+      {
+        "form": "lezakete",
+        "nor": "hura",
+        "nork": "haiek"
+      },
+      {
+        "form": "gintzakete",
+        "nor": "gu",
+        "nork": "haiek"
+      },
+      {
+        "form": "zintzakete",
+        "nor": "zu",
+        "nork": "haiek"
+      },
+      {
+        "form": "zintzaketete",
+        "nor": "zuek",
+        "nork": "haiek"
+      },
+      {
+        "form": "litzakete",
+        "nor": "haiek",
+        "nork": "haiek"
+      }
+    ],
+    "indikatiboa": {
+      "lehen": [
+        {
+          "form": "hindudan",
+          "nor": "hi",
+          "nork": "nik"
+        },
+        {
+          "form": "nuen",
+          "nor": "hura",
+          "nork": "nik"
+        },
+        {
+          "form": "zintudan",
+          "nor": "zu",
+          "nork": "nik"
+        },
+        {
+          "form": "zintuztedan",
+          "nor": "zuek",
+          "nork": "nik"
+        },
+        {
+          "form": "nituen",
+          "nor": "haiek",
+          "nork": "nik"
+        },
+        {
+          "form": "ninduan",
+          "nor": "ni",
+          "nork": "hik"
+        },
+        {
+          "form": "huen",
+          "nor": "hura",
+          "nork": "hik"
+        },
+        {
+          "form": "gintuan",
+          "nor": "gu",
+          "nork": "hik"
+        },
+        {
+          "form": "hituen",
+          "nor": "haiek",
+          "nork": "hik"
+        },
+        {
+          "form": "ninduen",
+          "nor": "ni",
+          "nork": "hark"
+        },
+        {
+          "form": "hinduen",
+          "nor": "hi",
+          "nork": "hark"
+        },
+        {
+          "form": "zuen",
+          "nor": "hura",
+          "nork": "hark"
+        },
+        {
+          "form": "gintuen",
+          "nor": "gu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintuen",
+          "nor": "zu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintuzten",
+          "nor": "zuek",
+          "nork": "hark"
+        },
+        {
+          "form": "zituen",
+          "nor": "haiek",
+          "nork": "hark"
+        },
+        {
+          "form": "hindugun",
+          "nor": "hi",
+          "nork": "guk"
+        },
+        {
+          "form": "genuen",
+          "nor": "hura",
+          "nork": "guk"
+        },
+        {
+          "form": "zintugun",
+          "nor": "zu",
+          "nork": "guk"
+        },
+        {
+          "form": "zintuztegun",
+          "nor": "zuek",
+          "nork": "guk"
+        },
+        {
+          "form": "genituen",
+          "nor": "haiek",
+          "nork": "guk"
+        },
+        {
+          "form": "ninduzun",
+          "nor": "ni",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenuen",
+          "nor": "hura",
+          "nork": "zuk"
+        },
+        {
+          "form": "gintuzun",
+          "nor": "gu",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenituen",
+          "nor": "haiek",
+          "nork": "zuk"
+        },
+        {
+          "form": "ninduzuen",
+          "nor": "ni",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenuten",
+          "nor": "hura",
+          "nork": "zuek"
+        },
+        {
+          "form": "gintuzuen",
+          "nor": "gu",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenituzten",
+          "nor": "haiek",
+          "nork": "zuek"
+        },
+        {
+          "form": "ninduten",
+          "nor": "ni",
+          "nork": "haiek"
+        },
+        {
+          "form": "hinduten",
+          "nor": "hi",
+          "nork": "haiek"
+        },
+        {
+          "form": "zuten",
+          "nor": "hura",
+          "nork": "haiek"
+        },
+        {
+          "form": "gintuzten",
+          "nor": "gu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintuzten",
+          "nor": "zu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintuzteten",
+          "nor": "zuek",
+          "nork": "haiek"
+        },
+        {
+          "form": "zituzten",
+          "nor": "haiek",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "haut",
+          "nor": "hi",
+          "nork": "nik"
+        },
+        {
+          "form": "dut",
+          "nor": "hura",
+          "nork": "nik"
+        },
+        {
+          "form": "zaitut",
+          "nor": "zu",
+          "nork": "nik"
+        },
+        {
+          "form": "zaituztet",
+          "nor": "zuek",
+          "nork": "nik"
+        },
+        {
+          "form": "ditut",
+          "nor": "haiek",
+          "nork": "nik"
+        },
+        {
+          "form": "nauk",
+          "nor": "ni",
+          "nork": "hik"
+        },
+        {
+          "form": "duk",
+          "nor": "hura",
+          "nork": "hik"
+        },
+        {
+          "form": "gaituk",
+          "nor": "gu",
+          "nork": "hik"
+        },
+        {
+          "form": "dituk",
+          "nor": "haiek",
+          "nork": "hik"
+        },
+        {
+          "form": "nau",
+          "nor": "ni",
+          "nork": "hark"
+        },
+        {
+          "form": "hau",
+          "nor": "hi",
+          "nork": "hark"
+        },
+        {
+          "form": "du",
+          "nor": "hura",
+          "nork": "hark"
+        },
+        {
+          "form": "gaitu",
+          "nor": "gu",
+          "nork": "hark"
+        },
+        {
+          "form": "zaitu",
+          "nor": "zu",
+          "nork": "hark"
+        },
+        {
+          "form": "zaituzte",
+          "nor": "zuek",
+          "nork": "hark"
+        },
+        {
+          "form": "ditu",
+          "nor": "haiek",
+          "nork": "hark"
+        },
+        {
+          "form": "haugu",
+          "nor": "hi",
+          "nork": "guk"
+        },
+        {
+          "form": "dugu",
+          "nor": "hura",
+          "nork": "guk"
+        },
+        {
+          "form": "zaitugu",
+          "nor": "zu",
+          "nork": "guk"
+        },
+        {
+          "form": "zaituztegu",
+          "nor": "zuek",
+          "nork": "guk"
+        },
+        {
+          "form": "ditugu",
+          "nor": "haiek",
+          "nork": "guk"
+        },
+        {
+          "form": "nauzu",
+          "nor": "ni",
+          "nork": "zuk"
+        },
+        {
+          "form": "duzu",
+          "nor": "hura",
+          "nork": "zuk"
+        },
+        {
+          "form": "gaituzu",
+          "nor": "gu",
+          "nork": "zuk"
+        },
+        {
+          "form": "dituzu",
+          "nor": "haiek",
+          "nork": "zuk"
+        },
+        {
+          "form": "nauzue",
+          "nor": "ni",
+          "nork": "zuek"
+        },
+        {
+          "form": "duzue",
+          "nor": "hura",
+          "nork": "zuek"
+        },
+        {
+          "form": "gaituzue",
+          "nor": "gu",
+          "nork": "zuek"
+        },
+        {
+          "form": "dituzue",
+          "nor": "haiek",
+          "nork": "zuek"
+        },
+        {
+          "form": "naute",
+          "nor": "ni",
+          "nork": "haiek"
+        },
+        {
+          "form": "haute",
+          "nor": "hi",
+          "nork": "haiek"
+        },
+        {
+          "form": "dute",
+          "nor": "hura",
+          "nork": "haiek"
+        },
+        {
+          "form": "gaituzte",
+          "nor": "gu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zaituzte",
+          "nor": "zu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zaituztete",
+          "nor": "zuek",
+          "nork": "haiek"
+        },
+        {
+          "form": "dituzte",
+          "nor": "haiek",
+          "nork": "haiek"
+        }
+      ]
+    },
+    "ondorioa": {
+      "lehen": [
+        {
+          "form": "hindukedan",
+          "nor": "hi",
+          "nork": "nik"
+        },
+        {
+          "form": "nukeen",
+          "nor": "hura",
+          "nork": "nik"
+        },
+        {
+          "form": "zintuzkedan",
+          "nor": "zu",
+          "nork": "nik"
+        },
+        {
+          "form": "zintuzketedan",
+          "nor": "zuek",
+          "nork": "nik"
+        },
+        {
+          "form": "nituzkeen",
+          "nor": "haiek",
+          "nork": "nik"
+        },
+        {
+          "form": "nindukean",
+          "nor": "ni",
+          "nork": "hik"
+        },
+        {
+          "form": "hukeen",
+          "nor": "hura",
+          "nork": "hik"
+        },
+        {
+          "form": "gintuzkean",
+          "nor": "gu",
+          "nork": "hik"
+        },
+        {
+          "form": "hituzkeen",
+          "nor": "haiek",
+          "nork": "hik"
+        },
+        {
+          "form": "nindukeen",
+          "nor": "ni",
+          "nork": "hark"
+        },
+        {
+          "form": "hindukeen",
+          "nor": "hi",
+          "nork": "hark"
+        },
+        {
+          "form": "zukeen",
+          "nor": "hura",
+          "nork": "hark"
+        },
+        {
+          "form": "gintuzkeen",
+          "nor": "gu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintuzkeen",
+          "nor": "zu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintuzketen",
+          "nor": "zuek",
+          "nork": "hark"
+        },
+        {
+          "form": "zituzkeen",
+          "nor": "haiek",
+          "nork": "hark"
+        },
+        {
+          "form": "hindukegun",
+          "nor": "hi",
+          "nork": "guk"
+        },
+        {
+          "form": "genukeen",
+          "nor": "hura",
+          "nork": "guk"
+        },
+        {
+          "form": "zintuzkegun",
+          "nor": "zu",
+          "nork": "guk"
+        },
+        {
+          "form": "zintuzketegun",
+          "nor": "zuek",
+          "nork": "guk"
+        },
+        {
+          "form": "genituzkeen",
+          "nor": "haiek",
+          "nork": "guk"
+        },
+        {
+          "form": "nindukezun",
+          "nor": "ni",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenukeen",
+          "nor": "hura",
+          "nork": "zuk"
+        },
+        {
+          "form": "gintuzkezun",
+          "nor": "gu",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenituzkeen",
+          "nor": "haiek",
+          "nork": "zuk"
+        },
+        {
+          "form": "nindukezuen",
+          "nor": "ni",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenuketen",
+          "nor": "hura",
+          "nork": "zuek"
+        },
+        {
+          "form": "gintuzkezuen",
+          "nor": "gu",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenituzketen",
+          "nor": "haiek",
+          "nork": "zuek"
+        },
+        {
+          "form": "ninduketen",
+          "nor": "ni",
+          "nork": "haiek"
+        },
+        {
+          "form": "hinduketen",
+          "nor": "hi",
+          "nork": "haiek"
+        },
+        {
+          "form": "zuketen",
+          "nor": "hura",
+          "nork": "haiek"
+        },
+        {
+          "form": "gintuzketen",
+          "nor": "gu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintuzketen",
+          "nor": "zu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintuzketeten",
+          "nor": "zuek",
+          "nork": "haiek"
+        },
+        {
+          "form": "zituzketen",
+          "nor": "haiek",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "hinduket",
+          "nor": "hi",
+          "nork": "nik"
+        },
+        {
+          "form": "nuke",
+          "nor": "hura",
+          "nork": "nik"
+        },
+        {
+          "form": "zintuzket",
+          "nor": "zu",
+          "nork": "nik"
+        },
+        {
+          "form": "zintuzketet",
+          "nor": "zuek",
+          "nork": "nik"
+        },
+        {
+          "form": "nituzke",
+          "nor": "haiek",
+          "nork": "nik"
+        },
+        {
+          "form": "nindukek",
+          "nor": "ni",
+          "nork": "hik"
+        },
+        {
+          "form": "huke",
+          "nor": "hura",
+          "nork": "hik"
+        },
+        {
+          "form": "gintuzkek",
+          "nor": "gu",
+          "nork": "hik"
+        },
+        {
+          "form": "hituzke",
+          "nor": "haiek",
+          "nork": "hik"
+        },
+        {
+          "form": "ninduke",
+          "nor": "ni",
+          "nork": "hark"
+        },
+        {
+          "form": "hinduke",
+          "nor": "hi",
+          "nork": "hark"
+        },
+        {
+          "form": "luke",
+          "nor": "hura",
+          "nork": "hark"
+        },
+        {
+          "form": "gintuzke",
+          "nor": "gu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintuzke",
+          "nor": "zu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintuzkete",
+          "nor": "zuek",
+          "nork": "hark"
+        },
+        {
+          "form": "lituzke",
+          "nor": "haiek",
+          "nork": "hark"
+        },
+        {
+          "form": "hindukegu",
+          "nor": "hi",
+          "nork": "guk"
+        },
+        {
+          "form": "genuke",
+          "nor": "hura",
+          "nork": "guk"
+        },
+        {
+          "form": "zintuzkegu",
+          "nor": "zu",
+          "nork": "guk"
+        },
+        {
+          "form": "zintuzketegu",
+          "nor": "zuek",
+          "nork": "guk"
+        },
+        {
+          "form": "genituzke",
+          "nor": "haiek",
+          "nork": "guk"
+        },
+        {
+          "form": "nindukezu",
+          "nor": "ni",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenuke",
+          "nor": "hura",
+          "nork": "zuk"
+        },
+        {
+          "form": "gintuzkezu",
+          "nor": "gu",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenituzke",
+          "nor": "haiek",
+          "nork": "zuk"
+        },
+        {
+          "form": "nindukezue",
+          "nor": "ni",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenukete",
+          "nor": "hura",
+          "nork": "zuek"
+        },
+        {
+          "form": "gintuzkezue",
+          "nor": "gu",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenituzkete",
+          "nor": "haiek",
+          "nork": "zuek"
+        },
+        {
+          "form": "nindukete",
+          "nor": "ni",
+          "nork": "haiek"
+        },
+        {
+          "form": "hindukete",
+          "nor": "hi",
+          "nork": "haiek"
+        },
+        {
+          "form": "lukete",
+          "nor": "hura",
+          "nork": "haiek"
+        },
+        {
+          "form": "gintuzkete",
+          "nor": "gu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintuzkete",
+          "nor": "zu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintuzketete",
+          "nor": "zuek",
+          "nork": "haiek"
+        },
+        {
+          "form": "lituzkete",
+          "nor": "haiek",
+          "nork": "haiek"
+        }
+      ]
+    },
+    "subjuntiboa": {
+      "lehen": [
+        {
+          "form": "hintzadan",
+          "nor": "hi",
+          "nork": "nik"
+        },
+        {
+          "form": "nezan",
+          "nor": "hura",
+          "nork": "nik"
+        },
+        {
+          "form": "zintzadan",
+          "nor": "zu",
+          "nork": "nik"
+        },
+        {
+          "form": "zintzatedan",
+          "nor": "zuek",
+          "nork": "nik"
+        },
+        {
+          "form": "nitzan",
+          "nor": "haiek",
+          "nork": "nik"
+        },
+        {
+          "form": "nintzaan",
+          "nor": "ni",
+          "nork": "hik"
+        },
+        {
+          "form": "hezan",
+          "nor": "hura",
+          "nork": "hik"
+        },
+        {
+          "form": "gintzaan",
+          "nor": "gu",
+          "nork": "hik"
+        },
+        {
+          "form": "hitzan",
+          "nor": "haiek",
+          "nork": "hik"
+        },
+        {
+          "form": "nintzan",
+          "nor": "ni",
+          "nork": "hark"
+        },
+        {
+          "form": "hintzan",
+          "nor": "hi",
+          "nork": "hark"
+        },
+        {
+          "form": "zezan",
+          "nor": "hura",
+          "nork": "hark"
+        },
+        {
+          "form": "gintzan",
+          "nor": "gu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintzan",
+          "nor": "zu",
+          "nork": "hark"
+        },
+        {
+          "form": "zintzaten",
+          "nor": "zuek",
+          "nork": "hark"
+        },
+        {
+          "form": "zitzan",
+          "nor": "haiek",
+          "nork": "hark"
+        },
+        {
+          "form": "hintzagun",
+          "nor": "hi",
+          "nork": "guk"
+        },
+        {
+          "form": "genezan",
+          "nor": "hura",
+          "nork": "guk"
+        },
+        {
+          "form": "zintzagun",
+          "nor": "zu",
+          "nork": "guk"
+        },
+        {
+          "form": "zintzategun",
+          "nor": "zuek",
+          "nork": "guk"
+        },
+        {
+          "form": "genitzan",
+          "nor": "haiek",
+          "nork": "guk"
+        },
+        {
+          "form": "nintzazun",
+          "nor": "ni",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenezan",
+          "nor": "hura",
+          "nork": "zuk"
+        },
+        {
+          "form": "gintzazun",
+          "nor": "gu",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenitzan",
+          "nor": "haiek",
+          "nork": "zuk"
+        },
+        {
+          "form": "nintzazuen",
+          "nor": "ni",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenezaten",
+          "nor": "hura",
+          "nork": "zuek"
+        },
+        {
+          "form": "gintzazuen",
+          "nor": "gu",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenitzaten",
+          "nor": "haiek",
+          "nork": "zuek"
+        },
+        {
+          "form": "nintzaten",
+          "nor": "ni",
+          "nork": "haiek"
+        },
+        {
+          "form": "hintzaten",
+          "nor": "hi",
+          "nork": "haiek"
+        },
+        {
+          "form": "zezaten",
+          "nor": "hura",
+          "nork": "haiek"
+        },
+        {
+          "form": "gintzaten",
+          "nor": "gu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintzaten",
+          "nor": "zu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zintzateten",
+          "nor": "zuek",
+          "nork": "haiek"
+        },
+        {
+          "form": "zitzaten",
+          "nor": "haiek",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "hazadan",
+          "nor": "hi",
+          "nork": "nik"
+        },
+        {
+          "form": "dezadan",
+          "nor": "hura",
+          "nork": "nik"
+        },
+        {
+          "form": "zaitzadan",
+          "nor": "zu",
+          "nork": "nik"
+        },
+        {
+          "form": "zaitzatedan",
+          "nor": "zuek",
+          "nork": "nik"
+        },
+        {
+          "form": "ditzadan",
+          "nor": "haiek",
+          "nork": "nik"
+        },
+        {
+          "form": "nazaan",
+          "nor": "ni",
+          "nork": "hik"
+        },
+        {
+          "form": "dezaan",
+          "nor": "hura",
+          "nork": "hik"
+        },
+        {
+          "form": "gaitzaan",
+          "nor": "gu",
+          "nork": "hik"
+        },
+        {
+          "form": "ditzaan",
+          "nor": "haiek",
+          "nork": "hik"
+        },
+        {
+          "form": "nazan",
+          "nor": "ni",
+          "nork": "hark"
+        },
+        {
+          "form": "hazan",
+          "nor": "hi",
+          "nork": "hark"
+        },
+        {
+          "form": "dezan",
+          "nor": "hura",
+          "nork": "hark"
+        },
+        {
+          "form": "gaitzan",
+          "nor": "gu",
+          "nork": "hark"
+        },
+        {
+          "form": "zaitzan",
+          "nor": "zu",
+          "nork": "hark"
+        },
+        {
+          "form": "zaitzaten",
+          "nor": "zuek",
+          "nork": "hark"
+        },
+        {
+          "form": "ditzan",
+          "nor": "haiek",
+          "nork": "hark"
+        },
+        {
+          "form": "hazagun",
+          "nor": "hi",
+          "nork": "guk"
+        },
+        {
+          "form": "dezagun",
+          "nor": "hura",
+          "nork": "guk"
+        },
+        {
+          "form": "zaitzagun",
+          "nor": "zu",
+          "nork": "guk"
+        },
+        {
+          "form": "zaitzategun",
+          "nor": "zuek",
+          "nork": "guk"
+        },
+        {
+          "form": "ditzagun",
+          "nor": "haiek",
+          "nork": "guk"
+        },
+        {
+          "form": "nazazun",
+          "nor": "ni",
+          "nork": "zuk"
+        },
+        {
+          "form": "dezazun",
+          "nor": "hura",
+          "nork": "zuk"
+        },
+        {
+          "form": "gaitzazun",
+          "nor": "gu",
+          "nork": "zuk"
+        },
+        {
+          "form": "ditzazun",
+          "nor": "haiek",
+          "nork": "zuk"
+        },
+        {
+          "form": "nazazuen",
+          "nor": "ni",
+          "nork": "zuek"
+        },
+        {
+          "form": "dezazuen",
+          "nor": "hura",
+          "nork": "zuek"
+        },
+        {
+          "form": "gaitzazuen",
+          "nor": "gu",
+          "nork": "zuek"
+        },
+        {
+          "form": "ditzazuen",
+          "nor": "haiek",
+          "nork": "zuek"
+        },
+        {
+          "form": "nazaten",
+          "nor": "ni",
+          "nork": "haiek"
+        },
+        {
+          "form": "hazaten",
+          "nor": "hi",
+          "nork": "haiek"
+        },
+        {
+          "form": "dezaten",
+          "nor": "hura",
+          "nork": "haiek"
+        },
+        {
+          "form": "gaitzaten",
+          "nor": "gu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zaitzaten",
+          "nor": "zu",
+          "nork": "haiek"
+        },
+        {
+          "form": "zaitzateten",
+          "nor": "zuek",
+          "nork": "haiek"
+        },
+        {
+          "form": "ditzaten",
+          "nor": "haiek",
+          "nork": "haiek"
+        }
+      ]
+    }
+  },
+  "nor-pl-nori-nork": {
+    "agintera": [
+      {
+        "form": "iezazkidak",
+        "nori": "niri",
+        "nork": "hik"
+      },
+      {
+        "form": "iezazkiok",
+        "nori": "hari",
+        "nork": "hik"
+      },
+      {
+        "form": "iezazkiguk",
+        "nori": "guri",
+        "nork": "hik"
+      },
+      {
+        "form": "iezazkiek",
+        "nori": "haiei",
+        "nork": "hik"
+      },
+      {
+        "form": "biezazkit",
+        "nori": "niri",
+        "nork": "hark"
+      },
+      {
+        "form": "biezazkik",
+        "nori": "hiri",
+        "nork": "hark"
+      },
+      {
+        "form": "biezazkio",
+        "nori": "hari",
+        "nork": "hark"
+      },
+      {
+        "form": "biezazkigu",
+        "nori": "guri",
+        "nork": "hark"
+      },
+      {
+        "form": "biezazkizu",
+        "nori": "zuri",
+        "nork": "hark"
+      },
+      {
+        "form": "biezazkizue",
+        "nori": "zuei",
+        "nork": "hark"
+      },
+      {
+        "form": "biezazkie",
+        "nori": "haiei",
+        "nork": "hark"
+      },
+      {
+        "form": "iezazkidazu",
+        "nori": "niri",
+        "nork": "zuk"
+      },
+      {
+        "form": "iezazkiozu",
+        "nori": "hari",
+        "nork": "zuk"
+      },
+      {
+        "form": "iezazkiguzu",
+        "nori": "guri",
+        "nork": "zuk"
+      },
+      {
+        "form": "iezazkiezu",
+        "nori": "haiei",
+        "nork": "zuk"
+      },
+      {
+        "form": "iezazkidazue",
+        "nori": "niri",
+        "nork": "zuek"
+      },
+      {
+        "form": "iezazkiozue",
+        "nori": "hari",
+        "nork": "zuek"
+      },
+      {
+        "form": "iezazkiguzue",
+        "nori": "guri",
+        "nork": "zuek"
+      },
+      {
+        "form": "iezazkiezue",
+        "nori": "haiei",
+        "nork": "zuek"
+      },
+      {
+        "form": "biezazkidate",
+        "nori": "niri",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezazkiate",
+        "nori": "hiri",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezazkiote",
+        "nori": "hari",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezazkigute",
+        "nori": "guri",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezazkizute",
+        "nori": "zuri",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezazkizuete",
+        "nori": "zuei",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezazkiete",
+        "nori": "haiei",
+        "nork": "haiek"
+      }
+    ],
+    "ahalera": {
+      "lehen": [
+        {
+          "form": "niezazkiakeen",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazkiokeen",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazkizukeen",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazkizuekeen",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazkiekeen",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hiezazkidakeen",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezazkiokeen",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezazkigukeen",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezazkiiekeen",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "ziezazkidakeen",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkiakeen",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkiokeen",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkigukeen",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkizukeen",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkizuekeen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkiekeen",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "geniezazkiakeen",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazkiokeen",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazkizukeen",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazkizuekeen",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazkiekeen",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zeniezazkidakeen",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezazkiokeen",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezazkigukeen",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezazkiekeen",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezazkidaketen",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezazkioketen",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezazkiguketen",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezazkieketen",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "ziezazkidaketen",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkiaketen",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkioketen",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkiguketen",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkizuketen",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkizueketen",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkieketen",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "diezazkiaket",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkioket",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkizuket",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkizueket",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkieket",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkidakek",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "diezazkiokek",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "diezazkigukek",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "diezazkiekek",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "diezazkidake",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkiake",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkioke",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkiguke",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkizuke",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkizueke",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkiieke",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkiakegu",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkiokegu",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkizukegu",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkizuekegu",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkiekegu",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkidakezu",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezazkiokezu",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezazkigukezu",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezazkiekezu",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezazkidakezue",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezazkiokezue",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezazkigukezue",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezazkiekezue",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezazkidakete",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkiakete",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkiokete",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkigukete",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkizukete",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkizuekete",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkiekete",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ]
+    },
+    "baldintza": [
+      {
+        "form": "banizkik",
+        "nori": "hiri",
+        "nork": "nik"
+      },
+      {
+        "form": "banizkio",
+        "nori": "hari",
+        "nork": "nik"
+      },
+      {
+        "form": "banizkizu",
+        "nori": "zuri",
+        "nork": "nik"
+      },
+      {
+        "form": "banizkizue",
+        "nori": "zuei",
+        "nork": "nik"
+      },
+      {
+        "form": "banizkie",
+        "nori": "haiei",
+        "nork": "nik"
+      },
+      {
+        "form": "bahizkit",
+        "nori": "niri",
+        "nork": "hik"
+      },
+      {
+        "form": "bahizkio",
+        "nori": "hari",
+        "nork": "hik"
+      },
+      {
+        "form": "bahizkigu",
+        "nori": "guri",
+        "nork": "hik"
+      },
+      {
+        "form": "bahizkie",
+        "nori": "haiei",
+        "nork": "hik"
+      },
+      {
+        "form": "balizkit",
+        "nori": "niri",
+        "nork": "hark"
+      },
+      {
+        "form": "balizkik",
+        "nori": "hiri",
+        "nork": "hark"
+      },
+      {
+        "form": "balizkio",
+        "nori": "hari",
+        "nork": "hark"
+      },
+      {
+        "form": "balizkigu",
+        "nori": "guri",
+        "nork": "hark"
+      },
+      {
+        "form": "balizkizu",
+        "nori": "zuri",
+        "nork": "hark"
+      },
+      {
+        "form": "balizkizue",
+        "nori": "zuei",
+        "nork": "hark"
+      },
+      {
+        "form": "balizkie",
+        "nori": "haiei",
+        "nork": "hark"
+      },
+      {
+        "form": "bagenizkik",
+        "nori": "hiri",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenizkio",
+        "nori": "hari",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenizkizu",
+        "nori": "zuri",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenizkizue",
+        "nori": "zuei",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenizkie",
+        "nori": "haiei",
+        "nork": "guk"
+      },
+      {
+        "form": "bazenizkit",
+        "nori": "niri",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenizkio",
+        "nori": "hari",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenizkigu",
+        "nori": "guri",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenizkie",
+        "nori": "haiei",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenizkidate",
+        "nori": "niri",
+        "nork": "zuek"
+      },
+      {
+        "form": "bazenizkiote",
+        "nori": "hari",
+        "nork": "zuek"
+      },
+      {
+        "form": "bazenizkigute",
+        "nori": "guri",
+        "nork": "zuek"
+      },
+      {
+        "form": "bazenizkiete",
+        "nori": "haiei",
+        "nork": "zuek"
+      },
+      {
+        "form": "balizkidate",
+        "nori": "niri",
+        "nork": "haiek"
+      },
+      {
+        "form": "balizkiate",
+        "nori": "hiri",
+        "nork": "haiek"
+      },
+      {
+        "form": "balizkiote",
+        "nori": "hari",
+        "nork": "haiek"
+      },
+      {
+        "form": "balizkigute",
+        "nori": "guri",
+        "nork": "haiek"
+      },
+      {
+        "form": "balizkizute",
+        "nori": "zuri",
+        "nork": "haiek"
+      },
+      {
+        "form": "balizkizuete",
+        "nori": "zuei",
+        "nork": "haiek"
+      },
+      {
+        "form": "balizkiete",
+        "nori": "haiei",
+        "nork": "haiek"
+      }
+    ],
+    "hipotetikoa": [
+      {
+        "form": "niezazkiake",
+        "nori": "hiri",
+        "nork": "nik"
+      },
+      {
+        "form": "niezazkioke",
+        "nori": "hari",
+        "nork": "nik"
+      },
+      {
+        "form": "niezazkizuke",
+        "nori": "zuri",
+        "nork": "nik"
+      },
+      {
+        "form": "niezazkizueke",
+        "nori": "zuei",
+        "nork": "nik"
+      },
+      {
+        "form": "niezazkieke",
+        "nori": "haiei",
+        "nork": "nik"
+      },
+      {
+        "form": "hiezazkidake",
+        "nori": "niri",
+        "nork": "hik"
+      },
+      {
+        "form": "hiezazkioke",
+        "nori": "hari",
+        "nork": "hik"
+      },
+      {
+        "form": "hiezazkiguke",
+        "nori": "guri",
+        "nork": "hik"
+      },
+      {
+        "form": "hiezazkieke",
+        "nori": "haiei",
+        "nork": "hik"
+      },
+      {
+        "form": "liezazkidake",
+        "nori": "niri",
+        "nork": "hark"
+      },
+      {
+        "form": "liezazkiake",
+        "nori": "hiri",
+        "nork": "hark"
+      },
+      {
+        "form": "liezazkioke",
+        "nori": "hari",
+        "nork": "hark"
+      },
+      {
+        "form": "liezazkiguke",
+        "nori": "guri",
+        "nork": "hark"
+      },
+      {
+        "form": "liezazkizuke",
+        "nori": "zuri",
+        "nork": "hark"
+      },
+      {
+        "form": "liezazkizueke",
+        "nori": "zuei",
+        "nork": "hark"
+      },
+      {
+        "form": "liezazkieke",
+        "nori": "haiei",
+        "nork": "hark"
+      },
+      {
+        "form": "geniezazkiake",
+        "nori": "hiri",
+        "nork": "guk"
+      },
+      {
+        "form": "geniezazkioke",
+        "nori": "hari",
+        "nork": "guk"
+      },
+      {
+        "form": "geniezazkizuke",
+        "nori": "zuri",
+        "nork": "guk"
+      },
+      {
+        "form": "geniezazkizueke",
+        "nori": "zuei",
+        "nork": "guk"
+      },
+      {
+        "form": "geniezazkieke",
+        "nori": "haiei",
+        "nork": "guk"
+      },
+      {
+        "form": "zeniezazkidake",
+        "nori": "niri",
+        "nork": "zuk"
+      },
+      {
+        "form": "zeniezazkioke",
+        "nori": "hari",
+        "nork": "zuk"
+      },
+      {
+        "form": "zeniezazkiguke",
+        "nori": "guri",
+        "nork": "zuk"
+      },
+      {
+        "form": "zeniezazkieke",
+        "nori": "haiei",
+        "nork": "zuk"
+      },
+      {
+        "form": "zeniezazkidakete",
+        "nori": "niri",
+        "nork": "zuek"
+      },
+      {
+        "form": "zeniezazkiokete",
+        "nori": "hari",
+        "nork": "zuek"
+      },
+      {
+        "form": "zeniezazkigukete",
+        "nori": "guri",
+        "nork": "zuek"
+      },
+      {
+        "form": "zeniezazkiekete",
+        "nori": "haiei",
+        "nork": "zuek"
+      },
+      {
+        "form": "liezazkidakete",
+        "nori": "niri",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezazkiakete",
+        "nori": "hiri",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezazkiokete",
+        "nori": "hari",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezazkigukete",
+        "nori": "guri",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezazkizukete",
+        "nori": "zuri",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezazkizuekete",
+        "nori": "zuei",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezazkiekete",
+        "nori": "haiei",
+        "nork": "haiek"
+      }
+    ],
+    "indikatiboa": {
+      "lehen": [
+        {
+          "form": "nizkian",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkion",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkizun",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkizuen",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkien",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hizkidan",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hizkion",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "hizkigun",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hizkien",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "zizkidan",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkian",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkion",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkigun",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkizun",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkizuen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkien",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "genizkian",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkion",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkizun",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkizuen",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkien",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zenizkidan",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkion",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkigun",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkien",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkidaten",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenizkioten",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenizkiguten",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenizkieten",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "zizkidaten",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkiaten",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkioten",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkiguten",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkizuten",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkizueten",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkieten",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "dizkiat",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "dizkiot",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "dizkizut",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "dizkizuet",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "dizkiet",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "dizkidak",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "dizkiok",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "dizkiguk",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "dizkiek",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "dizkit",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "dizkik",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "dizkio",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "dizkigu",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "dizkizu",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "dizkizue",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "dizkie",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "dizkiagu",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "dizkiogu",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "dizkizugu",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "dizkizuegu",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "dizkiegu",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "dizkidazu",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "dizkiozu",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "dizkiguzu",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "dizkiezu",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "dizkidazue",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "dizkiozue",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "dizkiguzue",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "dizkiezue",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "dizkidate",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "dizkiate",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "dizkiote",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "dizkigute",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "dizkizute",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "dizkizuete",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "dizkiete",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ]
+    },
+    "ondorioa": {
+      "lehen": [
+        {
+          "form": "nizkiakeen",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkiokeen",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkizukeen",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkizuekeen",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkiekeen",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hizkidakeen",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hizkiokeen",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "hizkigukeen",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hizkiekeen",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "zizkidakeen",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkiakeen",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkiokeen",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkigukeen",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkizukeen",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkizuekeen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "zizkiekeen",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "genizkiakeen",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkiokeen",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkizukeen",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkizuekeen",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkiekeen",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zenizkidakeen",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkiokeen",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkigukeen",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkiekeen",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkidaketen",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenizkioketen",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenizkiguketen",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenizkieketen",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "zizkidaketen",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkiaketen",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkioketeen",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkiguketen",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkizuketen",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkizueketen",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizkieketen",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "nizkiake",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkioke",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkizuke",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkizueke",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "nizkieke",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hizkidake",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hizkioke",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "hizkiguke",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hizkieke",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "lizkidake",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "lizkiake",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "lizkioke",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "lizkiguke",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "lizkizuke",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "lizueke",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "lizkieke",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "genizkiake",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkioke",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkizuke",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkizueke",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "genizkieke",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zenizkidake",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkioke",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkiguke",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkieke",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenizkidakete",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenizkiokete",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenizkigukete",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenizkiekete",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "lizkidakete",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "lizkiakete",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "lizkiokete",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "lizkigukete",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "lizkizukete",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "lizkizuekete",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "lizkiekete",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ]
+    },
+    "subjuntiboa": {
+      "lehen": [
+        {
+          "form": "niezazkian",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazkion",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazkizun",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazkizuen",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazkien",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hiezazkidan",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezazkion",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezazkigun",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezazkien",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "ziezazkidan",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkian",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkion",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkigun",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkizun",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkizuen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazkien",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "geniezazkian",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazkion",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazkizun",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazkizuen",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazkien",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zeniezazkidan",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezazkion",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezazkigun",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezazkien",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezazkidaten",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezazkioten",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezazkiguten",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezazkieten",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "ziezazkidaten",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkiaten",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkioten",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkiguten",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkizuten",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkizueten",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazkieten",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "diezazkiadan",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkiodan",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkizudan",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkizuedan",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkiedan",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazkidaan",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "diezazkioan",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "diezazkiguan",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "diezazkiean",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "diezazkidan",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkian",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkion",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkigun",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkizun",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkizuen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkien",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazkiagun",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkiogun",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkizugun",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkizuegun",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkiegun",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazkidazun",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezazkiozun",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezazkiguzun",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezazkiezun",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezazkidazuen",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezazkiozuen",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezazkiguzuen",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezazkiezuen",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezazkidaten",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkiaten",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkioten",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkiguten",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkizuten",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkizueten",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazkieten",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ]
+    }
+  },
+  "nor-sg-nori-nork": {
+    "agintera": [
+      {
+        "form": "iezadak",
+        "nori": "niri",
+        "nork": "hik"
+      },
+      {
+        "form": "iezaiok",
+        "nori": "hari",
+        "nork": "hik"
+      },
+      {
+        "form": "iezaguk",
+        "nori": "guri",
+        "nork": "hik"
+      },
+      {
+        "form": "iezaiek",
+        "nori": "haiei",
+        "nork": "hik"
+      },
+      {
+        "form": "biezat",
+        "nori": "niri",
+        "nork": "hark"
+      },
+      {
+        "form": "biezak",
+        "nori": "hiri",
+        "nork": "hark"
+      },
+      {
+        "form": "biezaio",
+        "nori": "hari",
+        "nork": "hark"
+      },
+      {
+        "form": "biezagu",
+        "nori": "guri",
+        "nork": "hark"
+      },
+      {
+        "form": "biezazu",
+        "nori": "zuri",
+        "nork": "hark"
+      },
+      {
+        "form": "biezazue",
+        "nori": "zuei",
+        "nork": "hark"
+      },
+      {
+        "form": "biezaie",
+        "nori": "haiei",
+        "nork": "hark"
+      },
+      {
+        "form": "iezadazu",
+        "nori": "niri",
+        "nork": "zuk"
+      },
+      {
+        "form": "iezaiozu",
+        "nori": "hari",
+        "nork": "zuk"
+      },
+      {
+        "form": "iezaguzu",
+        "nori": "guri",
+        "nork": "zuk"
+      },
+      {
+        "form": "iezaiezu",
+        "nori": "haiei",
+        "nork": "zuk"
+      },
+      {
+        "form": "iezadazue",
+        "nori": "niri",
+        "nork": "zuek"
+      },
+      {
+        "form": "iezaiozue",
+        "nori": "hari",
+        "nork": "zuek"
+      },
+      {
+        "form": "iezaguzue",
+        "nori": "guri",
+        "nork": "zuek"
+      },
+      {
+        "form": "iezaiezue",
+        "nori": "haiei",
+        "nork": "zuek"
+      },
+      {
+        "form": "biezadate",
+        "nori": "niri",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezaate",
+        "nori": "hiri",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezaiote",
+        "nori": "hari",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezagute",
+        "nori": "guri",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezazute",
+        "nori": "zuri",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezazuete",
+        "nori": "zuei",
+        "nork": "haiek"
+      },
+      {
+        "form": "biezaiete",
+        "nori": "haiei",
+        "nork": "haiek"
+      }
+    ],
+    "ahalera": {
+      "lehen": [
+        {
+          "form": "niezaakeen",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "niezaiokeen",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazukeen",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazuekeen",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "niezaiekeen",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hiezadakeen",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezaiokeen",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezagukeen",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezaiekeen",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "ziezadakeen",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezaakeen",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezaiokeen",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezagukeen",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazukeen",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazuekeen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezaiekeen",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "geniezaakeen",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezaiokeen",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazukeen",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazuekeen",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezaiekeen",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zeniezadakeen",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezaiokeen",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezagukeen",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezaiekeen",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezadaketen",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezaioketen",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezaguketen",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezaieketen",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "ziezadaketen",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezaaketen",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezaioketen",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezaguketen",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazuketen",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazueketen",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezaieketen",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "diezaaket",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "diezaioket",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazuket",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazueket",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "diezaieket",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "diezadakek",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "diezaiokek",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "diezagukek",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "diezaiekek",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "diezadake",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezaake",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezaioke",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "diezaguke",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazuke",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazueke",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "diezaieke",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "diezaakegu",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "diezaiokegu",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazukegu",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazuekegu",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "diezaiekegu",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "diezadakezu",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezaiokezu",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezagukezu",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezaiekezu",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezadakezue",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezaiokezue",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezagukezue",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezaiekezue",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezadakete",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezaakete",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezaiokete",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezagukete",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazukete",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazuekete",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezaiekete",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ]
+    },
+    "baldintza": [
+      {
+        "form": "banik",
+        "nori": "hiri",
+        "nork": "nik"
+      },
+      {
+        "form": "banio",
+        "nori": "hari",
+        "nork": "nik"
+      },
+      {
+        "form": "banizu",
+        "nori": "zuri",
+        "nork": "nik"
+      },
+      {
+        "form": "banizue",
+        "nori": "zuei",
+        "nork": "nik"
+      },
+      {
+        "form": "banie",
+        "nori": "haiei",
+        "nork": "nik"
+      },
+      {
+        "form": "bahit",
+        "nori": "niri",
+        "nork": "hik"
+      },
+      {
+        "form": "bahio",
+        "nori": "hari",
+        "nork": "hik"
+      },
+      {
+        "form": "bahigu",
+        "nori": "guri",
+        "nork": "hik"
+      },
+      {
+        "form": "bahie",
+        "nori": "haiei",
+        "nork": "hik"
+      },
+      {
+        "form": "balit",
+        "nori": "niri",
+        "nork": "hark"
+      },
+      {
+        "form": "balik",
+        "nori": "hiri",
+        "nork": "hark"
+      },
+      {
+        "form": "balio",
+        "nori": "hari",
+        "nork": "hark"
+      },
+      {
+        "form": "baligu",
+        "nori": "guri",
+        "nork": "hark"
+      },
+      {
+        "form": "balizu",
+        "nori": "zuri",
+        "nork": "hark"
+      },
+      {
+        "form": "balizue",
+        "nori": "zuei",
+        "nork": "hark"
+      },
+      {
+        "form": "balie",
+        "nori": "haiei",
+        "nork": "hark"
+      },
+      {
+        "form": "bagenik",
+        "nori": "hiri",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenio",
+        "nori": "hari",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenizu",
+        "nori": "zuri",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenizue",
+        "nori": "zuei",
+        "nork": "guk"
+      },
+      {
+        "form": "bagenie",
+        "nori": "haiei",
+        "nork": "guk"
+      },
+      {
+        "form": "bazenit",
+        "nori": "niri",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenio",
+        "nori": "hari",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenigu",
+        "nori": "guri",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenie",
+        "nori": "haiei",
+        "nork": "zuk"
+      },
+      {
+        "form": "bazenidate",
+        "nori": "niri",
+        "nork": "zuek"
+      },
+      {
+        "form": "bazeniote",
+        "nori": "hari",
+        "nork": "zuek"
+      },
+      {
+        "form": "bazenigute",
+        "nori": "guri",
+        "nork": "zuek"
+      },
+      {
+        "form": "bazeniete",
+        "nori": "haiei",
+        "nork": "zuek"
+      },
+      {
+        "form": "balidate",
+        "nori": "niri",
+        "nork": "haiek"
+      },
+      {
+        "form": "baliate",
+        "nori": "hiri",
+        "nork": "haiek"
+      },
+      {
+        "form": "baliote",
+        "nori": "hari",
+        "nork": "haiek"
+      },
+      {
+        "form": "baligute",
+        "nori": "guri",
+        "nork": "haiek"
+      },
+      {
+        "form": "balizute",
+        "nori": "zuri",
+        "nork": "haiek"
+      },
+      {
+        "form": "balizuete",
+        "nori": "zuei",
+        "nork": "haiek"
+      },
+      {
+        "form": "baliete",
+        "nori": "haiei",
+        "nork": "haiek"
+      }
+    ],
+    "hipotetikoa": [
+      {
+        "form": "niezaake",
+        "nori": "hiri",
+        "nork": "nik"
+      },
+      {
+        "form": "niezaioke",
+        "nori": "hari",
+        "nork": "nik"
+      },
+      {
+        "form": "niezazuke",
+        "nori": "zuri",
+        "nork": "nik"
+      },
+      {
+        "form": "niezazueke",
+        "nori": "zuei",
+        "nork": "nik"
+      },
+      {
+        "form": "niezaieke",
+        "nori": "haiei",
+        "nork": "nik"
+      },
+      {
+        "form": "hiezadake",
+        "nori": "niri",
+        "nork": "hik"
+      },
+      {
+        "form": "hiezaioke",
+        "nori": "hari",
+        "nork": "hik"
+      },
+      {
+        "form": "hiezaguke",
+        "nori": "guri",
+        "nork": "hik"
+      },
+      {
+        "form": "hiezaieke",
+        "nori": "haiei",
+        "nork": "hik"
+      },
+      {
+        "form": "liezadake",
+        "nori": "niri",
+        "nork": "hark"
+      },
+      {
+        "form": "liezaake",
+        "nori": "hiri",
+        "nork": "hark"
+      },
+      {
+        "form": "liezaioke",
+        "nori": "hari",
+        "nork": "hark"
+      },
+      {
+        "form": "liezaguke",
+        "nori": "guri",
+        "nork": "hark"
+      },
+      {
+        "form": "liezazuke",
+        "nori": "zuri",
+        "nork": "hark"
+      },
+      {
+        "form": "liezazueke",
+        "nori": "zuei",
+        "nork": "hark"
+      },
+      {
+        "form": "liezaieke",
+        "nori": "haiei",
+        "nork": "hark"
+      },
+      {
+        "form": "geniezaake",
+        "nori": "hiri",
+        "nork": "guk"
+      },
+      {
+        "form": "geniezaioke",
+        "nori": "hari",
+        "nork": "guk"
+      },
+      {
+        "form": "geniezazuke",
+        "nori": "zuri",
+        "nork": "guk"
+      },
+      {
+        "form": "geniezazueke",
+        "nori": "zuei",
+        "nork": "guk"
+      },
+      {
+        "form": "geniezaieke",
+        "nori": "haiei",
+        "nork": "guk"
+      },
+      {
+        "form": "zeniezadake",
+        "nori": "niri",
+        "nork": "zuk"
+      },
+      {
+        "form": "zeniezaioke",
+        "nori": "hari",
+        "nork": "zuk"
+      },
+      {
+        "form": "zeniezaguke",
+        "nori": "guri",
+        "nork": "zuk"
+      },
+      {
+        "form": "zeniezaieke",
+        "nori": "haiei",
+        "nork": "zuk"
+      },
+      {
+        "form": "zeniezadakete",
+        "nori": "niri",
+        "nork": "zuek"
+      },
+      {
+        "form": "zeniezaiokete",
+        "nori": "hari",
+        "nork": "zuek"
+      },
+      {
+        "form": "zeniezagukete",
+        "nori": "guri",
+        "nork": "zuek"
+      },
+      {
+        "form": "zeniezaiekete",
+        "nori": "haiei",
+        "nork": "zuek"
+      },
+      {
+        "form": "liezadakete",
+        "nori": "niri",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezaakete",
+        "nori": "hiri",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezaiokete",
+        "nori": "hari",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezagukete",
+        "nori": "guri",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezazukete",
+        "nori": "zuri",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezazuekete",
+        "nori": "zuei",
+        "nork": "haiek"
+      },
+      {
+        "form": "liezaiekete",
+        "nori": "haiei",
+        "nork": "haiek"
+      }
+    ],
+    "indikatiboa": {
+      "lehen": [
+        {
+          "form": "nian",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "nion",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "nizun",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "nizuen",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "nien",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hidan",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hion",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "higun",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hien",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "zidan",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "zian",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "zion",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "zigun",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizun",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizuen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "zien",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "genian",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "genion",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "genizun",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "genizuen",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "genien",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zenidan",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenion",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenigun",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenien",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenidaten",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenioten",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniguten",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenieten",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "zidaten",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziaten",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zioten",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziguten",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizuten",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizueten",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "zieten",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "diat",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "diot",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "dizut",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "dizuet",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "diet",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "didak",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "diok",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "diguk",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "diek",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "dit",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "dik",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "dio",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "digu",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "dizu",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "dizue",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "die",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "diagu",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "diogu",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "dizugu",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "dizuegu",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "diegu",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "didazu",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diozu",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "diguzu",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezu",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "didazue",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diozue",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "diguzue",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezue",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "didate",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diate",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diote",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "digute",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "dizute",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "dizuete",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "diete",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ]
+    },
+    "ondorioa": {
+      "lehen": [
+        {
+          "form": "niakeen",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "niokeen",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "nizukeen",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "nizuekeen",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "niekeen",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hidakeen",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiokeen",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "higukeen",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiekeen",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "zidakeen",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziakeen",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziokeen",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "zigukeen",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizukeen",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "zizuekeen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "ziekeen",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "geniakeen",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "geniokeen",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "genizukeen",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "genizuekeen",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "geniekeen",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zenidakeen",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniokeen",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenigukeen",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniekeen",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenidaketen",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenioketen",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniguketen",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenieketen",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "zidaketen",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziaketen",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zioketen",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziguketen",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizuketen",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "zizueketen",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "zieketen",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "niake",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "nioke",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "nizuke",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "nizueke",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "nieke",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hidake",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hioke",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "higuke",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hieke",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "lidake",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "liake",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "lioke",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "liguke",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "lizuke",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "lizueke",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "lieke",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "geniake",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "genioke",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "genizuke",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "genizueke",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "genieke",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zenidake",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenioke",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniguke",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenieke",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zenidakete",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniokete",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zenigukete",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniekete",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "lidakete",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "liakete",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "liokete",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "ligukete",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "lizukete",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "lizuekete",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "liekete",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ]
+    },
+    "subjuntiboa": {
+      "lehen": [
+        {
+          "form": "niezaan",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "niezaion",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazun",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "niezazuen",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "niezaien",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "hiezadan",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezaion",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezagun",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "hiezaien",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "ziezadan",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezaan",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezaion",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezagun",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazun",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezazuen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "ziezaien",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "geniezaan",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezaion",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazun",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezazuen",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "geniezaien",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "zeniezadan",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezaion",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezagun",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezaien",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "zeniezadaten",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezaioten",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezaguten",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "zeniezaieten",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "ziezadaten",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezaaten",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezaioten",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezaguten",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazuten",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezazueten",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "ziezaieten",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ],
+      "orain": [
+        {
+          "form": "diezaadan",
+          "nori": "hiri",
+          "nork": "nik"
+        },
+        {
+          "form": "diezaiodan",
+          "nori": "hari",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazudan",
+          "nori": "zuri",
+          "nork": "nik"
+        },
+        {
+          "form": "diezazuedan",
+          "nori": "zuei",
+          "nork": "nik"
+        },
+        {
+          "form": "diezaiedan",
+          "nori": "haiei",
+          "nork": "nik"
+        },
+        {
+          "form": "diezadaan",
+          "nori": "niri",
+          "nork": "hik"
+        },
+        {
+          "form": "diezaioan",
+          "nori": "hari",
+          "nork": "hik"
+        },
+        {
+          "form": "diezaguan",
+          "nori": "guri",
+          "nork": "hik"
+        },
+        {
+          "form": "diezaiean",
+          "nori": "haiei",
+          "nork": "hik"
+        },
+        {
+          "form": "diezadan",
+          "nori": "niri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezaan",
+          "nori": "hiri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezaion",
+          "nori": "hari",
+          "nork": "hark"
+        },
+        {
+          "form": "diezagun",
+          "nori": "guri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazun",
+          "nori": "zuri",
+          "nork": "hark"
+        },
+        {
+          "form": "diezazuen",
+          "nori": "zuei",
+          "nork": "hark"
+        },
+        {
+          "form": "diezaien",
+          "nori": "haiei",
+          "nork": "hark"
+        },
+        {
+          "form": "diezaagun",
+          "nori": "hiri",
+          "nork": "guk"
+        },
+        {
+          "form": "diezaiogun",
+          "nori": "hari",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazugun",
+          "nori": "zuri",
+          "nork": "guk"
+        },
+        {
+          "form": "diezazuegun",
+          "nori": "zuei",
+          "nork": "guk"
+        },
+        {
+          "form": "diezaiegun",
+          "nori": "haiei",
+          "nork": "guk"
+        },
+        {
+          "form": "diezadazun",
+          "nori": "niri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezaiozun",
+          "nori": "hari",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezaguzun",
+          "nori": "guri",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezaiezun",
+          "nori": "haiei",
+          "nork": "zuk"
+        },
+        {
+          "form": "diezadazuen",
+          "nori": "niri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezaiozuen",
+          "nori": "hari",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezaguzuen",
+          "nori": "guri",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezaiezuen",
+          "nori": "haiei",
+          "nork": "zuek"
+        },
+        {
+          "form": "diezadaten",
+          "nori": "niri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezaaten",
+          "nori": "hiri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezaioten",
+          "nori": "hari",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezaguten",
+          "nori": "guri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazuten",
+          "nori": "zuri",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezazueten",
+          "nori": "zuei",
+          "nork": "haiek"
+        },
+        {
+          "form": "diezaieten",
+          "nori": "haiei",
+          "nork": "haiek"
+        }
+      ]
+    }
+  }
+}

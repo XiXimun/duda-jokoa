@@ -1,0 +1,15 @@
+# Une phrase par ligne. Lignes vides et lignes commençant par # ignorées.
+#
+# Format :
+#   <phrase avec jetons> - Modua: <modua>, Aldia: <orain|lehen|(vide)>, Mota: <mota>, <Role>: <personne fixée>[, <Role2>: <personne fixée>]
+#
+# Jetons possibles dans la phrase : NORK / NORI / NOR (rôle libre, remplacé
+# au hasard par un pronom valide) et ADITZA (le trou à deviner, jamais
+# affiché). Un rôle pertinent pour la Mota doit soit apparaître comme jeton
+# libre dans la phrase, soit être fixé dans les métadonnées (ex. Nor: haiek).
+#
+# Personnes valides : ni, hi, hura, gu, zu, zuek, haiek (nor/nori sans -k ;
+# nork utilise nik, hik, hark, guk, zuk, zuek, haiek).
+
+NORK sagar bat jaten ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor-nork, Nor: hura
+NORK bi sagar jaten ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor-nork, Nor: haiek

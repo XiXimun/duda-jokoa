@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="eu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>duda2 — Aditz jokoa</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+  <header>
+    <h1>duda2</h1>
+    <div id="score-display" class="hidden">
+      Puntuak: <strong><span id="score">0</span> / <span id="total">0</span></strong>
+    </div>
+  </header>
+
+  <section id="screen-select">
+    <h2>Hautatu (aukerakoa)</h2>
+
+    <div class="filter-group">
+      <label for="filter-mota">Mota</label>
+      <select id="filter-mota"></select>
+    </div>
+
+    <div class="filter-group">
+      <label for="filter-modua">Modua</label>
+      <select id="filter-modua"></select>
+    </div>
+
+    <div class="filter-group" id="aldia-group">
+      <label for="filter-aldia">Aldia</label>
+      <select id="filter-aldia"></select>
+    </div>
+
+    <button id="btn-start" type="button">Hasi</button>
+    <p id="select-error" class="error hidden"></p>
+  </section>
+
+  <section id="screen-game" class="hidden">
+    <p class="phrase" id="phrase-text"></p>
+
+    <form id="answer-form" autocomplete="off">
+      <input type="text" id="answer-input" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <div class="actions">
+        <button id="btn-check" type="submit">Egiaztatu</button>
+        <button id="btn-next" type="button" class="hidden">Hurrengoa</button>
+      </div>
+    </form>
+
+    <p id="feedback" class="feedback hidden"></p>
+    <button id="btn-finish" type="button" class="secondary">Amaitu</button>
+  </section>
+
+  <section id="screen-result" class="hidden">
+    <h2>Emaitza</h2>
+    <p id="result-summary"></p>
+    <button id="btn-restart-same" type="button">Berriz (filtro berdina)</button>
+    <button id="btn-restart-new" type="button" class="secondary">Aukera berriak</button>
+  </section>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
