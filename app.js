@@ -2,24 +2,58 @@ const MOTAS = [
   { value: 'nor', label: 'Nor' },
   { value: 'nor-nori', label: 'Nor-Nori' },
   { value: 'nor-nork', label: 'Nor-Nork' },
-  { value: 'nor-sg-nori-nork', label: 'Nor(sg)-Nori-Nork' },
-  { value: 'nor-pl-nori-nork', label: 'Nor(pl)-Nori-Nork' },
+  { value: 'nor-nori-nork', label: 'Nor-Nori-Nork' },
 ];
 
-const MODUAS = [
-  { value: 'indikatiboa', label: 'Indikatiboa', hasAldia: true },
-  { value: 'baldintza', label: 'Baldintza', hasAldia: false },
-  { value: 'ondorioa', label: 'Ondorioa', hasAldia: true },
-  { value: 'ahalera', label: 'Ahalera / Potentziala', hasAldia: true },
-  { value: 'hipotetikoa', label: 'Hipotetikoa', hasAldia: false },
-  { value: 'subjuntiboa', label: 'Subjuntiboa', hasAldia: true },
-  { value: 'agintera', label: 'Agintera', hasAldia: false },
-];
+// Un seul choix utilisateur "Nor-Nori-Nork" regroupe en réalité deux tables
+// de conjugaison (NOR singulier/pluriel) : on tire l'une ou l'autre au hasard.
+const MOTA_GROUPS = {
+  'nor-nori-nork': ['nor-sg-nori-nork', 'nor-pl-nori-nork'],
+};
 
-const ALDIAS = [
-  { value: 'orain', label: 'Orain' },
-  { value: 'lehen', label: 'Lehen' },
-];
+function motasForFilter(value) {
+  return MOTA_GROUPS[value] || [value];
+}
+
+// Baldintza, Ondorioa et Hipotetikoa ne sont pas des Modua indépendants côté
+// UI : ce sont des variantes d'Aldia rattachées respectivement à Indikatiboa
+// et Ahalera/Potentziala. Chaque sous-option porte le (modua, aldia) réel à
+// utiliser pour le lookup dans conjugations.json / le filtrage des templates.
+const MODUA_GROUPS = {
+  indikatiboa: {
+    label: 'Indikatiboa',
+    aldias: [
+      { value: 'orain', label: 'Orain', modua: 'indikatiboa', aldia: 'orain' },
+      { value: 'lehen', label: 'Lehen', modua: 'indikatiboa', aldia: 'lehen' },
+      { value: 'baldintza', label: 'Baldintza', modua: 'baldintza', aldia: null },
+      { value: 'ondorioa-orain', label: 'Ondorioa Orain', modua: 'ondorioa', aldia: 'orain' },
+      { value: 'ondorioa-lehen', label: 'Ondorioa Lehen', modua: 'ondorioa', aldia: 'lehen' },
+    ],
+  },
+  ahalera: {
+    label: 'Ahalera / Potentziala',
+    aldias: [
+      { value: 'orain', label: 'Orain', modua: 'ahalera', aldia: 'orain' },
+      { value: 'lehen', label: 'Lehen', modua: 'ahalera', aldia: 'lehen' },
+      { value: 'hipotetikoa', label: 'Hipotetikoa / Alegiazkoa', modua: 'hipotetikoa', aldia: null },
+    ],
+  },
+  subjuntiboa: {
+    label: 'Subjuntiboa',
+    aldias: [
+      { value: 'orain', label: 'Orain', modua: 'subjuntiboa', aldia: 'orain' },
+      { value: 'lehen', label: 'Lehen', modua: 'subjuntiboa', aldia: 'lehen' },
+    ],
+  },
+  agintera: {
+    label: 'Agintera',
+    aldias: [
+      { value: 'orain', label: 'Orain', modua: 'agintera', aldia: 'orain' },
+    ],
+  },
+};
+
+const MODUAS = Object.entries(MODUA_GROUPS).map(([value, g]) => ({ value, label: g.label }));
 
 const ROLES_FOR_MOTA = {
   'nor': ['nor'],
@@ -53,21 +87,19 @@ function fillSelect(select, options, allLabel) {
   }
 }
 
-function currentModuaHasAldia(moduaValue) {
-  if (!moduaValue) return true; // "Denak" : on ne sait pas, on laisse le choix visible
-  const m = MODUAS.find((x) => x.value === moduaValue);
-  return m ? m.hasAldia : true;
-}
-
-function updateAldiaVisibility() {
-  const modua = $('filter-modua').value;
+function updateAldiaOptions() {
+  const moduaValue = $('filter-modua').value;
   const group = $('aldia-group');
-  if (currentModuaHasAldia(modua)) {
-    group.classList.remove('hidden');
-  } else {
+  const select = $('filter-aldia');
+  const moduaGroup = MODUA_GROUPS[moduaValue];
+
+  if (!moduaGroup || moduaGroup.aldias.length <= 1) {
+    select.innerHTML = '';
     group.classList.add('hidden');
-    $('filter-aldia').value = '';
+    return;
   }
+  fillSelect(select, moduaGroup.aldias, 'Denak');
+  group.classList.remove('hidden');
 }
 
 // ---- templates.txt parsing ----
@@ -146,10 +178,18 @@ function eligibleTemplates() {
   const fMota = $('filter-mota').value;
   const fModua = $('filter-modua').value;
   const fAldia = $('filter-aldia').value;
+  const fMotas = fMota ? motasForFilter(fMota) : null;
+
+  // "Modua" sélectionné : on traduit en (modua, aldia) réels via le groupe
+  // (Aldia non sélectionné = toutes les sous-options du groupe).
+  const moduaGroup = MODUA_GROUPS[fModua];
+  const fModuaAldias = moduaGroup
+    ? (fAldia ? moduaGroup.aldias.filter((a) => a.value === fAldia) : moduaGroup.aldias)
+    : null;
+
   return templates.filter((t) =>
-    (!fMota || t.mota === fMota)
-    && (!fModua || t.modua === fModua)
-    && (!fAldia || t.aldia === fAldia)
+    (!fMotas || fMotas.includes(t.mota))
+    && (!fModuaAldias || fModuaAldias.some((a) => a.modua === t.modua && a.aldia === t.aldia))
   );
 }
 
@@ -255,10 +295,9 @@ function finishSession() {
 function init() {
   fillSelect($('filter-mota'), MOTAS, 'Denak');
   fillSelect($('filter-modua'), MODUAS, 'Denak');
-  fillSelect($('filter-aldia'), ALDIAS, 'Denak');
 
-  $('filter-modua').addEventListener('change', updateAldiaVisibility);
-  updateAldiaVisibility();
+  $('filter-modua').addEventListener('change', updateAldiaOptions);
+  updateAldiaOptions();
 
   $('btn-start').addEventListener('click', startSession);
   $('answer-form').addEventListener('submit', (e) => { e.preventDefault(); checkAnswer(); });

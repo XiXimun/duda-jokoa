@@ -27,3 +27,5 @@ Egun, NORK NORI sagar bat eman ADITZA - Modua: indikatiboa, Aldia: orain, Mota: 
 Egun, NORK NORI bi sagar eman ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor-pl-nori-nork
 Atzo, NORK NORI sagar bat eman ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-sg-nori-nork
 Atzo, NORK NORI bi sagar eman ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-pl-nori-nork
+
+NOR, sar ADITZA! - Modua: agintera, Aldia: orain, Mota: nor

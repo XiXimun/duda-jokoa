@@ -1,4 +1,4 @@
-# duda-jokoa — app d'entraînement à la conjugaison basque (NOR / NORI / NORK)
+# duda-jokoa — app d'entraînement à la conjugaison en euskara (NOR / NORI / NORK)
 
 ## Contexte
 

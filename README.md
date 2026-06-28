@@ -1,11 +1,13 @@
 # duda-jokoa
 
 Appli web responsive pour s'entraîner à la conjugaison des auxiliaires
-basques (izan/ukan) via des phrases à trou, avec filtres optionnels par
+eneuskara (izan/ukan) via des phrases à trou, avec filtres optionnels par
 Mota / Modua / Aldia et un score.
 
 Voir [SPEC.md](SPEC.md) pour le contexte complet, le modèle de données et
 les choix de conception.
+
+https://xiximun.github.io/duda-jokoa/
 
 ## Lancer l'app
 
