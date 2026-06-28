@@ -302,6 +302,14 @@ function init() {
   $('btn-start').addEventListener('click', startSession);
   $('answer-form').addEventListener('submit', (e) => { e.preventDefault(); checkAnswer(); });
   $('btn-next').addEventListener('click', nextQuestion);
+  // Une fois la réponse validée, l'input est désactivé (donc ne reçoit plus
+  // le submit du form) : on capture Entrée au niveau document pour avancer.
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && !$('btn-next').classList.contains('hidden')) {
+      e.preventDefault();
+      nextQuestion();
+    }
+  });
   $('btn-finish').addEventListener('click', finishSession);
   $('btn-restart-same').addEventListener('click', startSession);
   $('btn-restart-new').addEventListener('click', () => showScreen('screen-select'));
