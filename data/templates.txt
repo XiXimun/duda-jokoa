@@ -18,10 +18,13 @@ Atzo, NOR pozik ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor
 Egun, NOR NORI gustatzen ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor-nori
 Atzo, NOR NORI gustatzen ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-nori
 
+
 Egun, NORK sagar bat jaten ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor-nork, Nor: hura
 Egun, NORK bi sagar jaten ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor-nork, Nor: haiek
 Atzo, NORK sagar bat jaten ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-nork, Nor: hura
 Atzo, NORK bi sagar jaten ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-nork, Nor: haiek
+Egun, NORK NOR ikusi ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor-nork
+Atzo, NORK NOR ikusi ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-nork
 
 Egun, NORK NORI sagar bat eman ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor-sg-nori-nork
 Egun, NORK NORI bi sagar eman ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor-pl-nori-nork
