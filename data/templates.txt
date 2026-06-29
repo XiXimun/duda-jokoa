@@ -11,7 +11,7 @@
 # Personnes valides : ni, hi, hura, gu, zu, zuek, haiek (nor/nori sans -k ;
 # nork utilise nik, hik, hark, guk, zuk, zuek, haiek).
 
-
+# Indikatiboa
 Egun, NOR pozik ADITZA - Modua: indikatiboa, Aldia: orain, Mota: nor
 Atzo, NOR pozik ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor
 
@@ -30,9 +30,29 @@ Egun, NORK NORI bi sagar eman ADITZA - Modua: indikatiboa, Aldia: orain, Mota: n
 Atzo, NORK NORI sagar bat eman ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-sg-nori-nork
 Atzo, NORK NORI bi sagar eman ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-pl-nori-nork
 
+# Subjuntiboa
+Egun, nahi du NOR etor ADITZA - Modua: subjuntiboa, Aldia: orain, Mota: nor
+Atzo, nahi zuen NOR etor ADITZA - Modua: subjuntiboa, Aldia: lehen, Mota: nor
+
+Egun, nahi du NOR NORI gusta ADITZA - Modua: subjuntiboa, Aldia: orain, Mota: nor-nori
+Atzo, nahi zuen NOR NORI gusta ADITZA - Modua: subjuntiboa, Aldia: lehen, Mota: nor-nori
+
+Egun, nahi du NORK NOR ikus ADITZA - Modua: subjuntiboa, Aldia: orain, Mota: nor-nork
+Atzo, nahi zuen NORK NOR ikus ADITZA - Modua: subjuntiboa, Aldia: lehen, Mota: nor-nork
+
+Egun, nahi du NORK NORI liburua eman ADITZA - Modua: subjuntiboa, Aldia: orain, Mota: nor-sg-nori-nork
+Egun, nahi du NORK NORI bi liburu eman ADITZA - Modua: subjuntiboa, Aldia: orain, Mota: nor-pl-nori-nork
+Atzo, nahi zuen NORK NORI liburua eman ADITZA - Modua: subjuntiboa, Aldia: lehen, Mota: nor-sg-nori-nork
+Atzo, nahi zuen NORK NORI bi liburu eman ADITZA - Modua: subjuntiboa, Aldia: lehen, Mota: nor-pl-nori-nork
+
+# Agintera
 NOR, sar ADITZA! - Modua: agintera, Aldia: orain, Mota: nor
+
 NOR, NORI hurbil ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-nori
+
 NORK, NOR lagun ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-nork
 NORK, NOR abisa ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-nork
+
 NORK, NORI sagar bat eman ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-sg-nori-nork
+
 NORK, NORI bi sagar eman ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-pl-nori-nork
