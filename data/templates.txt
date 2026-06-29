@@ -33,5 +33,6 @@ Atzo, NORK NORI bi sagar eman ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: n
 NOR, sar ADITZA! - Modua: agintera, Aldia: orain, Mota: nor
 NOR, NORI hurbil ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-nori
 NORK, NOR lagun ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-nork
+NORK, NOR abisa ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-nork
 NORK, NORI sagar bat eman ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-sg-nori-nork
 NORK, NORI bi sagar eman ADITZA ! - Modua: agintera, Aldia: orain, Mota: nor-pl-nori-nork
