@@ -55,6 +55,18 @@ const MODUA_GROUPS = {
 
 const MODUAS = Object.entries(MODUA_GROUPS).map(([value, g]) => ({ value, label: g.label }));
 
+// Traduit la paire (modua, aldia) telle qu'écrite dans templates.txt vers les
+// clés réelles de conjugations.json. Ex: ('ahalera','hipotetikoa') → {modua:'hipotetikoa', aldia:null}
+// car l'utilisateur écrit la hiérarchie UI, pas la structure interne du JSON.
+function resolveConjKey(displayModua, displayAldia) {
+  const group = MODUA_GROUPS[displayModua];
+  if (group) {
+    const opt = group.aldias.find((a) => a.value === displayAldia);
+    if (opt) return { modua: opt.modua, aldia: opt.aldia };
+  }
+  return { modua: displayModua, aldia: displayAldia };
+}
+
 const ROLES_FOR_MOTA = {
   'nor': ['nor'],
   'nor-nori': ['nor', 'nori'],
@@ -161,10 +173,11 @@ function parseTemplatesText(text) {
 // ---- conjugations.json lookup ----
 
 function getEntries(mota, modua, aldia) {
-  const node = conjugations[mota] && conjugations[mota][modua];
+  const { modua: m, aldia: a } = resolveConjKey(modua, aldia);
+  const node = conjugations[mota] && conjugations[mota][m];
   if (!node) return [];
   if (Array.isArray(node)) return node;
-  if (aldia && node[aldia]) return node[aldia];
+  if (a && node[a]) return node[a];
   return [];
 }
 
@@ -187,10 +200,11 @@ function eligibleTemplates() {
     ? (fAldia ? moduaGroup.aldias.filter((a) => a.value === fAldia) : moduaGroup.aldias)
     : null;
 
-  return templates.filter((t) =>
-    (!fMotas || fMotas.includes(t.mota))
-    && (!fModuaAldias || fModuaAldias.some((a) => a.modua === t.modua && a.aldia === t.aldia))
-  );
+  return templates.filter((t) => {
+    const { modua: tModua, aldia: tAldia } = resolveConjKey(t.modua, t.aldia);
+    return (!fMotas || fMotas.includes(t.mota))
+      && (!fModuaAldias || fModuaAldias.some((a) => a.modua === tModua && a.aldia === tAldia));
+  });
 }
 
 function pickRandom(arr) {

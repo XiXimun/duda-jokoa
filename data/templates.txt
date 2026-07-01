@@ -30,6 +30,32 @@ Egun, NORK NORI bi sagar eman ADITZA - Modua: indikatiboa, Aldia: orain, Mota: n
 Atzo, NORK NORI sagar bat eman ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-sg-nori-nork
 Atzo, NORK NORI bi sagar eman ADITZA - Modua: indikatiboa, Aldia: lehen, Mota: nor-pl-nori-nork
 
+# AHALERA / POTENTZIALA
+[Ahalera] Egun, NOR pozik ADITZA - Modua: ahalera, Aldia: orain, Mota: nor
+[Ahalera] Atzo, NOR pozik ADITZA - Modua: ahalera, Aldia: lehen, Mota: nor
+[Hipotetikoa] Atzo, NOR pozik ADITZA - Modua: ahalera, Aldia: hipotetikoa, Mota: nor
+							
+[Ahalera] Egun, NOR NORI gustatzen ADITZA - Modua: ahalera, Aldia: orain, Mota: nor-nori
+[Ahalera] Atzo, NOR NORI gustatzen ADITZA - Modua: ahalera, Aldia: lehen, Mota: nor-nori
+[Hipotetikoa] Atzo, NOR NORI gustatzen ADITZA - Modua: ahalera, Aldia: hipotetikoa, Mota: nor-nori
+
+[Ahalera] Egun, NORK sagar bat jaten ADITZA - Modua: ahalera, Aldia: orain, Mota: nor-nork, Nor: hura
+[Ahalera] Egun, NORK bi sagar jaten ADITZA - Modua: ahalera, Aldia: orain, Mota: nor-nork, Nor: haiek
+[Ahalera] Atzo, NORK sagar bat jaten ADITZA - Modua: ahalera, Aldia: lehen, Mota: nor-nork, Nor: hura
+[Ahalera] Atzo, NORK bi sagar jaten ADITZA - Modua: ahalera, Aldia: lehen, Mota: nor-nork, Nor: haiek
+[Hipotetikoa] Atzo, NORK sagar bat jaten ADITZA - Modua: ahalera, Aldia: hipotetikoa, Mota: nor-nork, Nor: hura
+[Hipotetikoa] Atzo, NORK bi sagar jaten ADITZA - Modua: ahalera, Aldia: hipotetikoa, Mota: nor-nork, Nor: haiek
+[Ahalera] Egun, NORK NOR ikusi ADITZA - Modua: ahalera, Aldia: orain, Mota: nor-nork
+[Ahalera] Atzo, NORK NOR ikusi ADITZA - Modua: ahalera, Aldia: lehen, Mota: nor-nork
+[Hipotetikoa] Atzo, NORK NOR ikusi ADITZA - Modua: ahalera, Aldia: hipotetikoa, Mota: nor-nork
+
+[Ahalera] Egun, NORK NORI sagar bat eman ADITZA - Modua: ahalera, Aldia: orain, Mota: nor-sg-nori-nork
+[Ahalera] Egun, NORK NORI bi sagar eman ADITZA - Modua: ahalera, Aldia: orain, Mota: nor-pl-nori-nork
+[Ahalera] Atzo, NORK NORI sagar bat eman ADITZA - Modua: ahalera, Aldia: lehen, Mota: nor-sg-nori-nork
+[Ahalera] Atzo, NORK NORI bi sagar eman ADITZA - Modua: ahalera, Aldia: lehen, Mota: nor-pl-nori-nork
+[Hipotetikoa] Atzo, NORK NORI sagar bat eman ADITZA - Modua: ahalera, Aldia: hipotetikoa, Mota: nor-sg-nori-nork
+[Hipotetikoa] Atzo, NORK NORI bi sagar eman ADITZA - Modua: ahalera, Aldia: hipotetikoa, Mota: nor-pl-nori-nork
+
 # Subjuntiboa
 Egun, nahi du NOR etor ADITZA - Modua: subjuntiboa, Aldia: orain, Mota: nor
 Atzo, nahi zuen NOR etor ADITZA - Modua: subjuntiboa, Aldia: lehen, Mota: nor
