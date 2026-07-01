@@ -279,10 +279,10 @@ function checkAnswer() {
   const feedback = $('feedback');
   feedback.classList.remove('hidden', 'ok', 'ko');
   if (correct) {
-    feedback.textContent = 'Zuzen!';
+    feedback.textContent = 'Bai !';
     feedback.classList.add('ok');
   } else {
-    feedback.textContent = `Okerra. Erantzun zuzena: ${current.answer}`;
+    feedback.textContent = `Ez ! Erantzun zuzena: ${current.answer}`;
     feedback.classList.add('ko');
   }
   $('answer-input').disabled = true;
